@@ -1,0 +1,104 @@
+000 (15818119.000.000) 02/20 15:15:24 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15818119.000.000) 02/20 15:16:58 Job executing on host: <10.128.10.152:48683?addrs=10.128.10.152-48683>
+...
+006 (15818119.000.000) 02/20 15:17:07 Image size of job updated: 906472
+	839  -  MemoryUsage of job (MB)
+	858132  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:22:08 Image size of job updated: 2083476
+	1997  -  MemoryUsage of job (MB)
+	2043952  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:27:08 Image size of job updated: 2546356
+	2373  -  MemoryUsage of job (MB)
+	2429792  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:37:09 Image size of job updated: 2880772
+	2699  -  MemoryUsage of job (MB)
+	2762984  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:42:10 Image size of job updated: 2977664
+	2793  -  MemoryUsage of job (MB)
+	2859840  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:52:12 Image size of job updated: 3078872
+	2894  -  MemoryUsage of job (MB)
+	2962944  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 15:57:12 Image size of job updated: 3130128
+	2943  -  MemoryUsage of job (MB)
+	3013568  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 16:02:13 Image size of job updated: 3153036
+	2967  -  MemoryUsage of job (MB)
+	3037220  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 16:07:13 Image size of job updated: 3412512
+	3256  -  MemoryUsage of job (MB)
+	3334104  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 16:27:15 Image size of job updated: 3623648
+	3461  -  MemoryUsage of job (MB)
+	3543140  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 16:42:17 Image size of job updated: 3873972
+	3706  -  MemoryUsage of job (MB)
+	3794020  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 16:47:24 Image size of job updated: 3916496
+	3747  -  MemoryUsage of job (MB)
+	3836580  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 17:12:21 Image size of job updated: 3932792
+	3762  -  MemoryUsage of job (MB)
+	3852096  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 17:17:21 Image size of job updated: 3932792
+	3764  -  MemoryUsage of job (MB)
+	3853724  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 17:22:21 Image size of job updated: 4038232
+	3865  -  MemoryUsage of job (MB)
+	3957324  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 17:27:23 Image size of job updated: 4182324
+	4006  -  MemoryUsage of job (MB)
+	4101264  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 17:57:26 Image size of job updated: 4253388
+	4076  -  MemoryUsage of job (MB)
+	4173288  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 18:27:28 Image size of job updated: 4465624
+	4284  -  MemoryUsage of job (MB)
+	4386084  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 18:42:30 Image size of job updated: 4696648
+	4509  -  MemoryUsage of job (MB)
+	4616956  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 19:42:36 Image size of job updated: 5061836
+	4866  -  MemoryUsage of job (MB)
+	4982232  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 20:57:45 Image size of job updated: 5319512
+	5116  -  MemoryUsage of job (MB)
+	5238560  -  ResidentSetSize of job (KB)
+...
+006 (15818119.000.000) 02/20 21:07:46 Image size of job updated: 5606248
+	5397  -  MemoryUsage of job (MB)
+	5525768  -  ResidentSetSize of job (KB)
+...
+007 (15818119.000.000) 02/20 22:32:28 Shadow exception!
+	Error from slot1_8@node112.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6196MB.
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (15818119.000.000) 02/20 22:32:28 Job was held.
+	Error from slot1_8@node112.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6196MB.
+	Code 21 Subcode 1001
+...
+009 (15818119.000.000) 02/21 04:17:01 Job was aborted by the user.
+	via condor_rm (by user condor)
+...

@@ -1,0 +1,6 @@
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/astropy/config/configuration.py:541: ConfigurationMissingWarning: Configuration defaults will be used due to OSError:Could not find unix home directory to search for astropy config dir on None
+  warn(ConfigurationMissingWarning(msg))
+Traceback (most recent call last):
+  File "Python_Elisa/disc_4.py", line 101, in <module>
+    disc_4 = [get_discovery(ana7,ra=0,sindec=d,ext=4,gamma=2) for d in dec_array]
+NameError: name 'dec_array' is not defined

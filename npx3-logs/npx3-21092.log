@@ -1,0 +1,188 @@
+000 (15352279.000.000) 02/14 10:03:41 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15352279.000.000) 02/14 10:04:53 Job executing on host: <10.128.10.11:53565?addrs=10.128.10.11-53565>
+...
+006 (15352279.000.000) 02/14 10:05:02 Image size of job updated: 774884
+	714  -  MemoryUsage of job (MB)
+	730860  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:10:03 Image size of job updated: 2803696
+	2737  -  MemoryUsage of job (MB)
+	2802304  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:15:03 Image size of job updated: 2821912
+	2755  -  MemoryUsage of job (MB)
+	2820520  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:20:04 Image size of job updated: 2866676
+	2799  -  MemoryUsage of job (MB)
+	2865284  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:25:05 Image size of job updated: 2908548
+	2840  -  MemoryUsage of job (MB)
+	2907156  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:30:05 Image size of job updated: 2949576
+	2880  -  MemoryUsage of job (MB)
+	2948184  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:35:05 Image size of job updated: 2984704
+	2914  -  MemoryUsage of job (MB)
+	2983312  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:40:05 Image size of job updated: 3025088
+	2953  -  MemoryUsage of job (MB)
+	3023696  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:45:06 Image size of job updated: 3082592
+	3009  -  MemoryUsage of job (MB)
+	3081200  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:50:11 Image size of job updated: 3090588
+	3017  -  MemoryUsage of job (MB)
+	3089196  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 10:55:07 Image size of job updated: 3143848
+	3070  -  MemoryUsage of job (MB)
+	3142716  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:00:08 Image size of job updated: 3191984
+	3117  -  MemoryUsage of job (MB)
+	3190848  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:05:09 Image size of job updated: 3233100
+	3157  -  MemoryUsage of job (MB)
+	3231808  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:10:09 Image size of job updated: 3264784
+	3188  -  MemoryUsage of job (MB)
+	3264160  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:15:10 Image size of job updated: 3292196
+	3215  -  MemoryUsage of job (MB)
+	3291572  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:20:11 Image size of job updated: 3344740
+	3266  -  MemoryUsage of job (MB)
+	3344052  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:25:11 Image size of job updated: 3382000
+	3303  -  MemoryUsage of job (MB)
+	3381312  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:30:11 Image size of job updated: 3407408
+	3327  -  MemoryUsage of job (MB)
+	3406436  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:35:12 Image size of job updated: 3434180
+	3353  -  MemoryUsage of job (MB)
+	3433208  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:40:13 Image size of job updated: 3500900
+	3418  -  MemoryUsage of job (MB)
+	3499928  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:45:13 Image size of job updated: 3531940
+	3449  -  MemoryUsage of job (MB)
+	3530892  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:50:13 Image size of job updated: 3565816
+	3482  -  MemoryUsage of job (MB)
+	3564768  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 11:55:14 Image size of job updated: 3618956
+	3534  -  MemoryUsage of job (MB)
+	3617908  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:00:15 Image size of job updated: 3650168
+	3564  -  MemoryUsage of job (MB)
+	3649300  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:05:15 Image size of job updated: 3688244
+	3601  -  MemoryUsage of job (MB)
+	3687376  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:10:15 Image size of job updated: 3730588
+	3643  -  MemoryUsage of job (MB)
+	3729520  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:15:16 Image size of job updated: 3771252
+	3682  -  MemoryUsage of job (MB)
+	3770144  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:20:17 Image size of job updated: 3813936
+	3724  -  MemoryUsage of job (MB)
+	3812828  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:25:17 Image size of job updated: 3831748
+	3741  -  MemoryUsage of job (MB)
+	3830640  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:30:17 Image size of job updated: 3881616
+	3790  -  MemoryUsage of job (MB)
+	3880764  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:35:18 Image size of job updated: 3924712
+	3832  -  MemoryUsage of job (MB)
+	3923860  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:40:19 Image size of job updated: 3969304
+	3876  -  MemoryUsage of job (MB)
+	3968608  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:45:19 Image size of job updated: 4004964
+	3911  -  MemoryUsage of job (MB)
+	4004268  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:50:19 Image size of job updated: 4032580
+	3936  -  MemoryUsage of job (MB)
+	4030452  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 12:55:20 Image size of job updated: 4081304
+	3984  -  MemoryUsage of job (MB)
+	4079176  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 13:00:21 Image size of job updated: 4117624
+	4021  -  MemoryUsage of job (MB)
+	4116656  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 13:05:21 Image size of job updated: 4156296
+	4058  -  MemoryUsage of job (MB)
+	4155328  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 13:10:21 Image size of job updated: 4190776
+	4093  -  MemoryUsage of job (MB)
+	4190280  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 13:15:22 Image size of job updated: 4222264
+	4123  -  MemoryUsage of job (MB)
+	4221780  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 13:20:23 Image size of job updated: 4277696
+	4177  -  MemoryUsage of job (MB)
+	4277212  -  ResidentSetSize of job (KB)
+...
+006 (15352279.000.000) 02/14 14:08:46 Image size of job updated: 4756092
+	4177  -  MemoryUsage of job (MB)
+	4277212  -  ResidentSetSize of job (KB)
+...
+005 (15352279.000.000) 02/14 14:08:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 04:02:13, Sys 0 00:01:17  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 04:02:13, Sys 0 00:01:17  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Admin_mutex_1         :                           0 
+	   Admin_mutex_2         :                           0 
+	   Admin_mutex_3         :                           0 
+	   Cpus                  :     1.00        5         5 
+	   Disk (KB)             :     3     1048576   1612560 
+	   Gpus                  :                           0 
+	   Machine_token         :                           0 
+	   Memory (MB)           :  4177        5120      5120 
+...

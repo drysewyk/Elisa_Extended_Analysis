@@ -1,0 +1,56 @@
+000 (15818406.000.000) 02/20 15:24:45 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15818406.000.000) 02/20 15:26:59 Job executing on host: <10.128.10.62:60021?addrs=10.128.10.62-60021>
+...
+006 (15818406.000.000) 02/20 15:27:08 Image size of job updated: 228288
+	206  -  MemoryUsage of job (MB)
+	210556  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 15:32:08 Image size of job updated: 2326052
+	2258  -  MemoryUsage of job (MB)
+	2311664  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 15:37:08 Image size of job updated: 2777152
+	2712  -  MemoryUsage of job (MB)
+	2776248  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 15:47:10 Image size of job updated: 3295804
+	3217  -  MemoryUsage of job (MB)
+	3294176  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 16:12:12 Image size of job updated: 3858368
+	3768  -  MemoryUsage of job (MB)
+	3857992  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 16:17:13 Image size of job updated: 3944032
+	3851  -  MemoryUsage of job (MB)
+	3943176  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 16:27:14 Image size of job updated: 4140228
+	4043  -  MemoryUsage of job (MB)
+	4139068  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 16:47:15 Image size of job updated: 4983988
+	4867  -  MemoryUsage of job (MB)
+	4983368  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 18:17:25 Image size of job updated: 5294004
+	5170  -  MemoryUsage of job (MB)
+	5293652  -  ResidentSetSize of job (KB)
+...
+006 (15818406.000.000) 02/20 18:22:25 Image size of job updated: 5294004
+	5172  -  MemoryUsage of job (MB)
+	5295896  -  ResidentSetSize of job (KB)
+...
+007 (15818406.000.000) 02/20 18:34:22 Shadow exception!
+	Error from slot1_14@node133.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6266MB.
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (15818406.000.000) 02/20 18:34:22 Job was held.
+	Error from slot1_14@node133.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6266MB.
+	Code 21 Subcode 1001
+...
+009 (15818406.000.000) 02/21 00:17:03 Job was aborted by the user.
+	via condor_rm (by user condor)
+...

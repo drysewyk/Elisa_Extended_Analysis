@@ -1,0 +1,15 @@
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/astropy/config/configuration.py:541: ConfigurationMissingWarning: Configuration defaults will be used due to OSError:Could not find unix home directory to search for astropy config dir on None
+  warn(ConfigurationMissingWarning(msg))
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/scipy/stats/_distn_infrastructure.py:2300: RuntimeWarning: Mean of empty slice.
+  muhat = tmp.mean()
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/numpy/core/_methods.py:80: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/scipy/stats/_distn_infrastructure.py:2301: RuntimeWarning: Degrees of freedom <= 0 for slice
+  mu2hat = tmp.var()
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/numpy/core/_methods.py:105: RuntimeWarning: invalid value encountered in true_divide
+  arrmean, rcount, out=arrmean, casting='unsafe', subok=False)
+/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/numpy/core/_methods.py:127: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+warning: Chi2TSD() could not find good chi2 fit
+/mnt/lfs3/user/drysewyk/software/external/csky/csky/dists.py:169: RuntimeWarning: divide by zero encountered in double_scalars
+  self.chi2.isf (p / self.eta),

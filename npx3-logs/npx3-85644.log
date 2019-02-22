@@ -1,0 +1,20 @@
+000 (15266613.000.000) 02/13 12:57:45 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15266613.000.000) 02/13 13:01:30 Job executing on host: <10.128.11.53:44408?addrs=10.128.11.53-44408>
+...
+006 (15266613.000.000) 02/13 13:01:38 Image size of job updated: 550452
+	496  -  MemoryUsage of job (MB)
+	507752  -  ResidentSetSize of job (KB)
+...
+007 (15266613.000.000) 02/13 13:01:58 Shadow exception!
+	Error from slot1_7@c9-14.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 3072MB, used 4841MB.
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (15266613.000.000) 02/13 13:01:58 Job was held.
+	Error from slot1_7@c9-14.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 3072MB, used 4841MB.
+	Code 21 Subcode 1001
+...
+009 (15266613.000.000) 02/13 13:02:47 Job was aborted by the user.
+	via condor_rm (by user drysewyk)
+...

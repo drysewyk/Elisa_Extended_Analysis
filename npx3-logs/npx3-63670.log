@@ -1,0 +1,84 @@
+000 (15818124.000.000) 02/20 15:15:35 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15818124.000.000) 02/20 15:16:58 Job executing on host: <10.128.10.221:35642?addrs=10.128.10.221-35642>
+...
+006 (15818124.000.000) 02/20 15:17:07 Image size of job updated: 436384
+	379  -  MemoryUsage of job (MB)
+	387736  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 15:22:08 Image size of job updated: 1992124
+	1902  -  MemoryUsage of job (MB)
+	1946948  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 15:27:08 Image size of job updated: 2360608
+	2262  -  MemoryUsage of job (MB)
+	2315916  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 15:32:08 Image size of job updated: 3320920
+	3200  -  MemoryUsage of job (MB)
+	3276220  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 15:37:09 Image size of job updated: 3333964
+	3213  -  MemoryUsage of job (MB)
+	3289176  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 15:42:11 Image size of job updated: 3333964
+	3214  -  MemoryUsage of job (MB)
+	3290388  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 16:02:13 Image size of job updated: 3804760
+	3677  -  MemoryUsage of job (MB)
+	3764320  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 16:07:13 Image size of job updated: 3804760
+	3678  -  MemoryUsage of job (MB)
+	3765684  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 16:47:21 Image size of job updated: 4119492
+	4020  -  MemoryUsage of job (MB)
+	4116356  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 16:52:18 Image size of job updated: 4119492
+	4022  -  MemoryUsage of job (MB)
+	4118128  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 16:57:19 Image size of job updated: 4140836
+	4041  -  MemoryUsage of job (MB)
+	4137812  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 17:02:19 Image size of job updated: 4516864
+	4409  -  MemoryUsage of job (MB)
+	4513840  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 17:17:22 Image size of job updated: 4775136
+	4661  -  MemoryUsage of job (MB)
+	4772204  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 17:42:24 Image size of job updated: 4858096
+	4742  -  MemoryUsage of job (MB)
+	4855332  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 18:12:27 Image size of job updated: 5436756
+	5307  -  MemoryUsage of job (MB)
+	5433952  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 18:37:30 Image size of job updated: 5612944
+	5479  -  MemoryUsage of job (MB)
+	5610048  -  ResidentSetSize of job (KB)
+...
+006 (15818124.000.000) 02/20 18:42:31 Image size of job updated: 5754140
+	5617  -  MemoryUsage of job (MB)
+	5751340  -  ResidentSetSize of job (KB)
+...
+007 (15818124.000.000) 02/20 19:01:34 Shadow exception!
+	Error from slot1_7@gtx-6.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6257MB.
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (15818124.000.000) 02/20 19:01:34 Job was held.
+	Error from slot1_7@gtx-6.icecube.wisc.edu: Policy violation. Memory limit exceeded: requested 5120MB, used 6257MB.
+	Code 21 Subcode 1001
+...
+009 (15818124.000.000) 02/21 00:17:02 Job was aborted by the user.
+	via condor_rm (by user condor)
+...

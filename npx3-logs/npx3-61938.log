@@ -1,0 +1,48 @@
+000 (15818092.000.000) 02/20 15:14:52 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (15818092.000.000) 02/20 15:15:57 Job executing on host: <10.128.10.152:48683?addrs=10.128.10.152-48683>
+...
+006 (15818092.000.000) 02/20 15:16:06 Image size of job updated: 104612
+	73  -  MemoryUsage of job (MB)
+	74488  -  ResidentSetSize of job (KB)
+...
+006 (15818092.000.000) 02/20 15:21:07 Image size of job updated: 1736532
+	1693  -  MemoryUsage of job (MB)
+	1732964  -  ResidentSetSize of job (KB)
+...
+006 (15818092.000.000) 02/20 15:31:07 Image size of job updated: 1794180
+	1750  -  MemoryUsage of job (MB)
+	1791036  -  ResidentSetSize of job (KB)
+...
+006 (15818092.000.000) 02/20 15:41:09 Image size of job updated: 1834572
+	1791  -  MemoryUsage of job (MB)
+	1833040  -  ResidentSetSize of job (KB)
+...
+006 (15818092.000.000) 02/20 15:46:09 Image size of job updated: 1939628
+	1891  -  MemoryUsage of job (MB)
+	1936244  -  ResidentSetSize of job (KB)
+...
+006 (15818092.000.000) 02/20 16:25:14 Image size of job updated: 2195312
+	1891  -  MemoryUsage of job (MB)
+	1936244  -  ResidentSetSize of job (KB)
+...
+005 (15818092.000.000) 02/20 16:25:14 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 04:51:09, Sys 0 00:09:49  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 04:51:09, Sys 0 00:09:49  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Admin_mutex_1         :                           0 
+	   Admin_mutex_2         :                           0 
+	   Admin_mutex_3         :                           0 
+	   Cpus                  :     2.67        5         5 
+	   Disk (KB)             :     3     1048576   1158495 
+	   Gpus                  :                           0 
+	   Machine_token         :                           0 
+	   Memory (MB)           :  1891        5120      5120 
+...
