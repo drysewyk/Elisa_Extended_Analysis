@@ -1,12 +1,12 @@
 Universe  = vanilla
-Executable = npx3-execs/npx3-78227.sh
-Log = npx3-logs/npx3-78227.log
-Output = npx3-out/npx3-78227.out
-Error = npx3-error/npx3-78227.error
+Executable = npx3-execs/npx3-50611.sh
+Log = npx3-logs/npx3-50611.log
+Output = npx3-out/npx3-50611.out
+Error = npx3-error/npx3-50611.error
 request_cpus = 5
 +NATIVE_OS = true
 Requirements = (OpSysMajorVer =?= 7)
 request_disk = 1GB
-Request_memory = 5 GB
+Request_memory = 10 GB
 Notification = NEVER
 Queue

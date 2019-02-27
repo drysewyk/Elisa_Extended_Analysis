@@ -1,0 +1,56 @@
+000 (16085904.000.000) 02/26 13:46:07 Job submitted from host: <10.128.11.86:35145?addrs=10.128.11.86-35145>
+...
+001 (16085904.000.000) 02/26 13:54:19 Job executing on host: <10.128.10.70:44729?addrs=10.128.10.70-44729>
+...
+006 (16085904.000.000) 02/26 13:54:27 Image size of job updated: 310380
+	254  -  MemoryUsage of job (MB)
+	259692  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 13:59:27 Image size of job updated: 1955988
+	1860  -  MemoryUsage of job (MB)
+	1904608  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:04:27 Image size of job updated: 2028112
+	1931  -  MemoryUsage of job (MB)
+	1976732  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:09:28 Image size of job updated: 2087456
+	1989  -  MemoryUsage of job (MB)
+	2036076  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:14:29 Image size of job updated: 2087456
+	2020  -  MemoryUsage of job (MB)
+	2068472  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:24:30 Image size of job updated: 2126612
+	2072  -  MemoryUsage of job (MB)
+	2121652  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:29:31 Image size of job updated: 2361040
+	2301  -  MemoryUsage of job (MB)
+	2355904  -  ResidentSetSize of job (KB)
+...
+006 (16085904.000.000) 02/26 14:49:33 Image size of job updated: 2381836
+	2321  -  MemoryUsage of job (MB)
+	2376524  -  ResidentSetSize of job (KB)
+...
+005 (16085904.000.000) 02/26 15:27:36 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 06:30:23, Sys 0 00:15:27  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 06:30:23, Sys 0 00:15:27  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Admin_mutex_1         :                           0 
+	   Admin_mutex_2         :                           0 
+	   Admin_mutex_3         :                           0 
+	   Cpus                  :     4.75        5         5 
+	   Disk (KB)             :     3     1048576   1612153 
+	   Gpus                  :                           0 
+	   Machine_token         :                           0 
+	   Memory (MB)           :  2321       10240     10240 
+...
