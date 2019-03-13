@@ -1,6 +1,0 @@
-/cvmfs/icecube.opensciencegrid.org/py2-v3.0.1/RHEL_7_x86_64/lib/python2.7/site-packages/astropy/config/configuration.py:541: ConfigurationMissingWarning: Configuration defaults will be used due to OSError:Could not find unix home directory to search for astropy config dir on None
-  warn(ConfigurationMissingWarning(msg))
-Traceback (most recent call last):
-  File "Python_Elisa/back_5_ss.py", line 89, in <module>
-    h = bg_5_10.get_hist (bins=50)
-NameError: name 'bg_5_10' is not defined

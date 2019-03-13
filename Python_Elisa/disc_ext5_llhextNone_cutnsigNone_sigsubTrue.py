@@ -59,7 +59,7 @@ def get_sens(ana, ra, sindec, ext=np.radians(0), llh_ext=None, cut_n_sigma=None,
     src = cy.utils.Sources(ra=0, dec=np.arcsin(sindec),extension=ext)
     flux = hyp.PowerLawFlux(gamma)
     tr = get_tr(src=src, ana=ana, ext=ext, llh_ext=llh_ext, flux=flux, cut_n_sigma=cut_n_sigma, sigsub=sigsub)
-    bg = cy.dists.Chi2TSD(tr.get_many_fits(500))
+    bg = cy.dists.Chi2TSD(tr.get_many_fits(1000))
     sens = tr.find_n_sig(bg.median(),0.9,batch_size=batch_size,max_batch_size=1000,tol=0.03, coverage=2)
     sens['flux'] = tr.to_E2dNdE(sens['n_sig'], E0=100, unit=1e3)
     return sens['flux']
@@ -68,7 +68,7 @@ def get_disc(ana, ra, sindec, ext=np.radians(0), llh_ext=None, cut_n_sigma=None,
     src = cy.utils.Sources(ra=0, dec=np.arcsin(sindec),extension=ext)
     flux = hyp.PowerLawFlux(gamma)
     tr = get_tr(src=src, ana=ana, ext=ext, llh_ext=llh_ext, flux=flux, cut_n_sigma=cut_n_sigma, sigsub=sigsub)
-    bg = cy.dists.Chi2TSD(tr.get_many_fits(500))
+    bg = cy.dists.Chi2TSD(tr.get_many_fits(1000))
     sens = tr.find_n_sig(bg.isf_nsigma(5,fit=True),0.5,batch_size=batch_size,max_batch_size=1000,tol=0.03, coverage=2)
     sens['flux'] = tr.to_E2dNdE(sens['n_sig'], E0=100, unit=1e3)
     return sens['flux']
@@ -76,8 +76,8 @@ def get_disc(ana, ra, sindec, ext=np.radians(0), llh_ext=None, cut_n_sigma=None,
 # llh_ext=None for extended source analysis on an extended source
 # llh_ext=0 for point source analysis on an extended source
 
-sindec_array = np.linspace(-0.98,0.98,30)
+sindec_array = np.linspace(-0.98,0.98,50)
 disc_5 = [get_disc(ana7,ra=0,sindec=d,ext=np.radians(5),llh_ext=None, cut_n_sigma=None, gamma=2, sigsub=True) for d in sindec_array]
-np.save('/data/user/drysewyk/llh_sandbox/NumPyArrays/DiscoveryPotential/disc_5ext_llhextNone_cutnsigNone_gamma2_sigsubTrue_30bins.npy',disc_5)
+np.save('/data/user/drysewyk/llh_sandbox/NumPyArrays/DiscoveryPotential/disc_5ext_llhextNone_cutnsigNone_gamma2_sigsubTrue_50bins.npy',disc_5)
 
 

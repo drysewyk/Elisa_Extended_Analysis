@@ -1,8 +1,8 @@
 Universe  = vanilla
-Executable = npx3-execs/npx3-50611.sh
-Log = npx3-logs/npx3-50611.log
-Output = npx3-out/npx3-50611.out
-Error = npx3-error/npx3-50611.error
+Executable = npx3-execs/npx3-80856.sh
+Log = npx3-logs/npx3-80856.log
+Output = npx3-out/npx3-80856.out
+Error = npx3-error/npx3-80856.error
 request_cpus = 5
 +NATIVE_OS = true
 Requirements = (OpSysMajorVer =?= 7)

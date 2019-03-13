@@ -1,463 +1,0 @@
-Thu Feb 14 09:48:53 CST 2019
-n-12.icecube.wisc.edu
-Setting up Analysis for:
-IC40, IC59, IC79, IC86_2011, IC86_2012_2014
-Setting up IC40...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC40_MC.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC40_exp.npy ...
-<- /data/user/drysewyk/csky_cache/ana_new/IC40.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC40.subanalysis.npy    
-Setting up IC59...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC59_MC.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC59_exp.npy ...
-<- /data/user/drysewyk/csky_cache/ana_new/IC59.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC59.subanalysis.npy    
-Setting up IC79...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC79_MC.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC79_exp.npy ...
-<- /data/user/drysewyk/csky_cache/ana_new/IC79.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC79.subanalysis.npy    
-Setting up IC86_2011...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2011_MC.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2011_exp.npy ...
-<- /data/user/drysewyk/csky_cache/ana_new/IC86_2011.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC86_2011.subanalysis.npy    
-Setting up IC86_2012_2014...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2012_MC.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2012_exp.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2013_exp.npy ...
-Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2014_exp.npy ...
-<- /data/user/drysewyk/csky_cache/ana_new/IC86_2012_2014.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC86_2012_2014.subanalysis.npy    
-Done.
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         31/500 trials complete...         59/500 trials complete...         89/500 trials complete...        121/500 trials complete...        152/500 trials complete...        182/500 trials complete...        217/500 trials complete...        249/500 trials complete...        275/500 trials complete...        302/500 trials complete...        331/500 trials complete...        358/500 trials complete...        386/500 trials complete...        419/500 trials complete...        450/500 trials complete...        483/500 trials complete...        498/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 09:50:07.025688
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 43.157...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.04000
-  n_sig = 30.000 ... frac = 0.06000
-  n_sig = 33.000 ... frac = 0.02000
-  n_sig = 36.000 ... frac = 0.04000
-  n_sig = 39.000 ... frac = 0.04000
-  n_sig = 42.000 ... frac = 0.04000
-  n_sig = 45.000 ... frac = 0.14000
-  n_sig = 48.000 ... frac = 0.24000
-  n_sig = 51.000 ... frac = 0.22000
-  n_sig = 54.000 ... frac = 0.26000
-  n_sig = 57.000 ... frac = 0.38000
-  n_sig = 60.000 ... frac = 0.50000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   18.00   36.00   54.00   72.00   90.00  | n_sig (relative error)
-500      |          0.0%    0.0%    3.4%   29.0%   75.0%   94.0%  |     62.085 (+/-  0.9%) [spline]
-End time: 2019-02-14 09:53:32.218007
-Elapsed time: 0:03:25.192319
-Performing 500 background trials using 5 cores:
-          1/500 trials complete...          1/500 trials complete...         33/500 trials complete...         63/500 trials complete...         92/500 trials complete...        124/500 trials complete...        158/500 trials complete...        187/500 trials complete...        220/500 trials complete...        252/500 trials complete...        282/500 trials complete...        310/500 trials complete...        340/500 trials complete...        369/500 trials complete...        395/500 trials complete...        426/500 trials complete...        454/500 trials complete...        485/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 09:53:51.564469
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 29.360...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.02000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.02000
-  n_sig = 27.000 ... frac = 0.02000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.02000
-  n_sig = 36.000 ... frac = 0.06000
-  n_sig = 39.000 ... frac = 0.10000
-  n_sig = 42.000 ... frac = 0.08000
-  n_sig = 45.000 ... frac = 0.14000
-  n_sig = 48.000 ... frac = 0.12000
-  n_sig = 51.000 ... frac = 0.20000
-  n_sig = 54.000 ... frac = 0.20000
-  n_sig = 57.000 ... frac = 0.36000
-  n_sig = 60.000 ... frac = 0.34000
-  n_sig = 63.000 ... frac = 0.44000
-  n_sig = 66.000 ... frac = 0.44000
-  n_sig = 69.000 ... frac = 0.62000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   20.70   41.40   62.10   82.80  103.50  | n_sig (relative error)
-500      |          0.0%    0.2%    9.2%   44.0%   82.8%   97.4%  |     65.241 (+/-  1.6%) [spline]
-End time: 2019-02-14 09:57:43.157495
-Elapsed time: 0:03:51.593026
-Performing 500 background trials using 5 cores:
-          1/500 trials complete...          1/500 trials complete...         28/500 trials complete...         56/500 trials complete...         79/500 trials complete...        107/500 trials complete...        133/500 trials complete...        161/500 trials complete...        191/500 trials complete...        219/500 trials complete...        246/500 trials complete...        274/500 trials complete...        306/500 trials complete...        331/500 trials complete...        362/500 trials complete...        392/500 trials complete...        420/500 trials complete...        452/500 trials complete...        479/500 trials complete...        495/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 09:58:04.636333
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 40.402...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.02000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.00000
-  n_sig = 48.000 ... frac = 0.02000
-  n_sig = 51.000 ... frac = 0.06000
-  n_sig = 54.000 ... frac = 0.08000
-  n_sig = 57.000 ... frac = 0.02000
-  n_sig = 60.000 ... frac = 0.24000
-  n_sig = 63.000 ... frac = 0.18000
-  n_sig = 66.000 ... frac = 0.18000
-  n_sig = 69.000 ... frac = 0.20000
-  n_sig = 72.000 ... frac = 0.28000
-  n_sig = 75.000 ... frac = 0.46000
-  n_sig = 78.000 ... frac = 0.42000
-  n_sig = 81.000 ... frac = 0.50000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   24.30   48.60   72.90   97.20  121.50  | n_sig (relative error)
-500      |          0.0%    0.0%    2.6%   25.4%   74.6%   96.8%  |     85.021 (+/-  0.7%) [spline]
-End time: 2019-02-14 10:02:20.040122
-Elapsed time: 0:04:15.403789
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         28/500 trials complete...         52/500 trials complete...         78/500 trials complete...        103/500 trials complete...        127/500 trials complete...        151/500 trials complete...        173/500 trials complete...        194/500 trials complete...        215/500 trials complete...        240/500 trials complete...        265/500 trials complete...        290/500 trials complete...        315/500 trials complete...        340/500 trials complete...        364/500 trials complete...        391/500 trials complete...        415/500 trials complete...        438/500 trials complete...        466/500 trials complete...        489/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:02:43.549329
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 36.173...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.02000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.02000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.04000
-  n_sig = 42.000 ... frac = 0.02000
-  n_sig = 45.000 ... frac = 0.02000
-  n_sig = 48.000 ... frac = 0.14000
-  n_sig = 51.000 ... frac = 0.14000
-  n_sig = 54.000 ... frac = 0.28000
-  n_sig = 57.000 ... frac = 0.32000
-  n_sig = 60.000 ... frac = 0.38000
-  n_sig = 63.000 ... frac = 0.52000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   18.90   37.80   56.70   75.60   94.50  | n_sig (relative error)
-500      |          0.0%    0.0%    1.8%   27.6%   73.6%   94.2%  |     65.736 (+/-  1.0%) [spline]
-End time: 2019-02-14 10:07:04.552494
-Elapsed time: 0:04:21.003165
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         20/500 trials complete...         43/500 trials complete...         64/500 trials complete...         87/500 trials complete...        107/500 trials complete...        129/500 trials complete...        152/500 trials complete...        174/500 trials complete...        196/500 trials complete...        218/500 trials complete...        241/500 trials complete...        261/500 trials complete...        281/500 trials complete...        303/500 trials complete...        326/500 trials complete...        348/500 trials complete...        367/500 trials complete...        390/500 trials complete...        415/500 trials complete...        433/500 trials complete...        453/500 trials complete...        475/500 trials complete...        496/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:07:31.059217
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 20.142...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.02000
-  n_sig = 42.000 ... frac = 0.04000
-  n_sig = 45.000 ... frac = 0.10000
-  n_sig = 48.000 ... frac = 0.12000
-  n_sig = 51.000 ... frac = 0.12000
-  n_sig = 54.000 ... frac = 0.20000
-  n_sig = 57.000 ... frac = 0.30000
-  n_sig = 60.000 ... frac = 0.36000
-  n_sig = 63.000 ... frac = 0.36000
-  n_sig = 66.000 ... frac = 0.42000
-  n_sig = 69.000 ... frac = 0.60000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   20.70   41.40   62.10   82.80  103.50  | n_sig (relative error)
-500      |          0.0%    0.0%    4.4%   39.8%   80.0%   96.8%  |     67.153 (+/-  1.5%) [spline]
-End time: 2019-02-14 10:12:32.788789
-Elapsed time: 0:05:01.729572
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         16/500 trials complete...         36/500 trials complete...         50/500 trials complete...         71/500 trials complete...         89/500 trials complete...        106/500 trials complete...        122/500 trials complete...        137/500 trials complete...        155/500 trials complete...        174/500 trials complete...        189/500 trials complete...        206/500 trials complete...        224/500 trials complete...        241/500 trials complete...        259/500 trials complete...        278/500 trials complete...        292/500 trials complete...        310/500 trials complete...        323/500 trials complete...        339/500 trials complete...        355/500 trials complete...        373/500 trials complete...        386/500 trials complete...        404/500 trials complete...        420/500 trials complete...        440/500 trials complete...        454/500 trials complete...        471/500 trials complete...        486/500 trials complete...        495/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:13:06.180623
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 47.356...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.00000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.00000
-  n_sig = 48.000 ... frac = 0.00000
-  n_sig = 51.000 ... frac = 0.00000
-  n_sig = 54.000 ... frac = 0.00000
-  n_sig = 57.000 ... frac = 0.00000
-  n_sig = 60.000 ... frac = 0.00000
-  n_sig = 63.000 ... frac = 0.00000
-  n_sig = 66.000 ... frac = 0.02000
-  n_sig = 69.000 ... frac = 0.00000
-  n_sig = 72.000 ... frac = 0.00000
-  n_sig = 75.000 ... frac = 0.00000
-  n_sig = 78.000 ... frac = 0.02000
-  n_sig = 81.000 ... frac = 0.08000
-  n_sig = 84.000 ... frac = 0.08000
-  n_sig = 87.000 ... frac = 0.00000
-  n_sig = 90.000 ... frac = 0.04000
-  n_sig = 93.000 ... frac = 0.04000
-  n_sig = 96.000 ... frac = 0.08000
-  n_sig = 99.000 ... frac = 0.10000
-  n_sig = 102.000 ... frac = 0.16000
-  n_sig = 105.000 ... frac = 0.16000
-  n_sig = 108.000 ... frac = 0.20000
-  n_sig = 111.000 ... frac = 0.28000
-  n_sig = 114.000 ... frac = 0.10000
-  n_sig = 117.000 ... frac = 0.40000
-  n_sig = 120.000 ... frac = 0.24000
-  n_sig = 123.000 ... frac = 0.38000
-  n_sig = 126.000 ... frac = 0.46000
-  n_sig = 129.000 ... frac = 0.52000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   38.70   77.40  116.10  154.80  193.50  | n_sig (relative error)
-500      |          0.0%    0.0%    1.0%   25.6%   80.2%   97.2%  |    133.198 (+/-  0.9%) [spline]
-End time: 2019-02-14 10:20:25.673212
-Elapsed time: 0:07:19.492589
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         19/500 trials complete...         38/500 trials complete...         54/500 trials complete...         73/500 trials complete...         90/500 trials complete...        109/500 trials complete...        133/500 trials complete...        152/500 trials complete...        171/500 trials complete...        187/500 trials complete...        206/500 trials complete...        223/500 trials complete...        243/500 trials complete...        259/500 trials complete...        278/500 trials complete...        289/500 trials complete...        307/500 trials complete...        327/500 trials complete...        342/500 trials complete...        359/500 trials complete...        379/500 trials complete...        396/500 trials complete...        416/500 trials complete...        432/500 trials complete...        447/500 trials complete...        466/500 trials complete...        484/500 trials complete...        496/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:20:57.166935
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 31.288...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.00000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.00000
-  n_sig = 48.000 ... frac = 0.00000
-  n_sig = 51.000 ... frac = 0.00000
-  n_sig = 54.000 ... frac = 0.00000
-  n_sig = 57.000 ... frac = 0.00000
-  n_sig = 60.000 ... frac = 0.02000
-  n_sig = 63.000 ... frac = 0.06000
-  n_sig = 66.000 ... frac = 0.06000
-  n_sig = 69.000 ... frac = 0.10000
-  n_sig = 72.000 ... frac = 0.06000
-  n_sig = 75.000 ... frac = 0.06000
-  n_sig = 78.000 ... frac = 0.14000
-  n_sig = 81.000 ... frac = 0.08000
-  n_sig = 84.000 ... frac = 0.12000
-  n_sig = 87.000 ... frac = 0.22000
-  n_sig = 90.000 ... frac = 0.26000
-  n_sig = 93.000 ... frac = 0.30000
-  n_sig = 96.000 ... frac = 0.22000
-  n_sig = 99.000 ... frac = 0.42000
-  n_sig = 102.000 ... frac = 0.38000
-  n_sig = 105.000 ... frac = 0.42000
-  n_sig = 108.000 ... frac = 0.50000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   32.40   64.80   97.20  129.60  162.00  | n_sig (relative error)
-500      |          0.0%    0.2%    3.0%   31.8%   79.8%   97.4%  |    109.352 (+/-  1.1%) [spline]
-End time: 2019-02-14 10:27:45.674593
-Elapsed time: 0:06:48.507658
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         21/500 trials complete...         43/500 trials complete...         61/500 trials complete...         83/500 trials complete...        106/500 trials complete...        125/500 trials complete...        143/500 trials complete...        166/500 trials complete...        187/500 trials complete...        209/500 trials complete...        228/500 trials complete...        243/500 trials complete...        261/500 trials complete...        283/500 trials complete...        309/500 trials complete...        327/500 trials complete...        351/500 trials complete...        378/500 trials complete...        400/500 trials complete...        424/500 trials complete...        443/500 trials complete...        464/500 trials complete...        483/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:28:12.243270
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 36.474...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.00000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.00000
-  n_sig = 48.000 ... frac = 0.00000
-  n_sig = 51.000 ... frac = 0.00000
-  n_sig = 54.000 ... frac = 0.00000
-  n_sig = 57.000 ... frac = 0.00000
-  n_sig = 60.000 ... frac = 0.00000
-  n_sig = 63.000 ... frac = 0.00000
-  n_sig = 66.000 ... frac = 0.00000
-  n_sig = 69.000 ... frac = 0.06000
-  n_sig = 72.000 ... frac = 0.00000
-  n_sig = 75.000 ... frac = 0.02000
-  n_sig = 78.000 ... frac = 0.06000
-  n_sig = 81.000 ... frac = 0.06000
-  n_sig = 84.000 ... frac = 0.10000
-  n_sig = 87.000 ... frac = 0.12000
-  n_sig = 90.000 ... frac = 0.08000
-  n_sig = 93.000 ... frac = 0.14000
-  n_sig = 96.000 ... frac = 0.12000
-  n_sig = 99.000 ... frac = 0.22000
-  n_sig = 102.000 ... frac = 0.20000
-  n_sig = 105.000 ... frac = 0.30000
-  n_sig = 108.000 ... frac = 0.22000
-  n_sig = 111.000 ... frac = 0.38000
-  n_sig = 114.000 ... frac = 0.30000
-  n_sig = 117.000 ... frac = 0.48000
-  n_sig = 120.000 ... frac = 0.56000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   36.00   72.00  108.00  144.00  180.00  | n_sig (relative error)
-500      |          0.0%    0.0%    3.0%   32.2%   79.8%   98.2%  |    121.350 (+/-  1.0%) [spline]
-End time: 2019-02-14 10:34:23.129108
-Elapsed time: 0:06:10.885838
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         23/500 trials complete...         43/500 trials complete...         66/500 trials complete...         90/500 trials complete...        113/500 trials complete...        138/500 trials complete...        161/500 trials complete...        184/500 trials complete...        208/500 trials complete...        233/500 trials complete...        256/500 trials complete...        279/500 trials complete...        305/500 trials complete...        327/500 trials complete...        350/500 trials complete...        373/500 trials complete...        399/500 trials complete...        423/500 trials complete...        445/500 trials complete...        467/500 trials complete...        483/500 trials complete...        496/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:34:48.525323
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 36.768...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.00000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.02000
-  n_sig = 48.000 ... frac = 0.00000
-  n_sig = 51.000 ... frac = 0.00000
-  n_sig = 54.000 ... frac = 0.00000
-  n_sig = 57.000 ... frac = 0.00000
-  n_sig = 60.000 ... frac = 0.00000
-  n_sig = 63.000 ... frac = 0.00000
-  n_sig = 66.000 ... frac = 0.02000
-  n_sig = 69.000 ... frac = 0.04000
-  n_sig = 72.000 ... frac = 0.04000
-  n_sig = 75.000 ... frac = 0.04000
-  n_sig = 78.000 ... frac = 0.04000
-  n_sig = 81.000 ... frac = 0.06000
-  n_sig = 84.000 ... frac = 0.06000
-  n_sig = 87.000 ... frac = 0.14000
-  n_sig = 90.000 ... frac = 0.28000
-  n_sig = 93.000 ... frac = 0.16000
-  n_sig = 96.000 ... frac = 0.24000
-  n_sig = 99.000 ... frac = 0.30000
-  n_sig = 102.000 ... frac = 0.30000
-  n_sig = 105.000 ... frac = 0.20000
-  n_sig = 108.000 ... frac = 0.38000
-  n_sig = 111.000 ... frac = 0.36000
-  n_sig = 114.000 ... frac = 0.46000
-  n_sig = 117.000 ... frac = 0.44000
-  n_sig = 120.000 ... frac = 0.50000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   36.00   72.00  108.00  144.00  180.00  | n_sig (relative error)
-500      |          0.0%    0.0%    4.4%   38.0%   79.8%   96.2%  |    118.024 (+/-  1.1%) [spline]
-End time: 2019-02-14 10:40:12.608228
-Elapsed time: 0:05:24.082905
-Performing 500 background trials using 5 cores:
-          0/500 trials complete...          0/500 trials complete...         24/500 trials complete...         46/500 trials complete...         70/500 trials complete...         97/500 trials complete...        125/500 trials complete...        149/500 trials complete...        178/500 trials complete...        209/500 trials complete...        234/500 trials complete...        262/500 trials complete...        286/500 trials complete...        313/500 trials complete...        337/500 trials complete...        364/500 trials complete...        384/500 trials complete...        410/500 trials complete...        438/500 trials complete...        462/500 trials complete...        482/500 trials complete...        497/500 trials complete...        500/500 trials complete.   
-Start time: 2019-02-14 10:40:36.037705
-Using 5 cores.
-* Starting initial scan for 50% of 50 trials with TS >= 72.571...
-  n_sig = 3.000 ... frac = 0.00000
-  n_sig = 6.000 ... frac = 0.00000
-  n_sig = 9.000 ... frac = 0.00000
-  n_sig = 12.000 ... frac = 0.00000
-  n_sig = 15.000 ... frac = 0.00000
-  n_sig = 18.000 ... frac = 0.00000
-  n_sig = 21.000 ... frac = 0.00000
-  n_sig = 24.000 ... frac = 0.00000
-  n_sig = 27.000 ... frac = 0.00000
-  n_sig = 30.000 ... frac = 0.00000
-  n_sig = 33.000 ... frac = 0.00000
-  n_sig = 36.000 ... frac = 0.00000
-  n_sig = 39.000 ... frac = 0.00000
-  n_sig = 42.000 ... frac = 0.00000
-  n_sig = 45.000 ... frac = 0.00000
-  n_sig = 48.000 ... frac = 0.00000
-  n_sig = 51.000 ... frac = 0.00000
-  n_sig = 54.000 ... frac = 0.00000
-  n_sig = 57.000 ... frac = 0.00000
-  n_sig = 60.000 ... frac = 0.00000
-  n_sig = 63.000 ... frac = 0.00000
-  n_sig = 66.000 ... frac = 0.00000
-  n_sig = 69.000 ... frac = 0.00000
-  n_sig = 72.000 ... frac = 0.00000
-  n_sig = 75.000 ... frac = 0.00000
-  n_sig = 78.000 ... frac = 0.00000
-  n_sig = 81.000 ... frac = 0.00000
-  n_sig = 84.000 ... frac = 0.00000
-  n_sig = 87.000 ... frac = 0.00000
-  n_sig = 90.000 ... frac = 0.00000
-  n_sig = 93.000 ... frac = 0.00000
-  n_sig = 96.000 ... frac = 0.00000
-  n_sig = 99.000 ... frac = 0.00000
-  n_sig = 102.000 ... frac = 0.00000
-  n_sig = 105.000 ... frac = 0.00000
-  n_sig = 108.000 ... frac = 0.00000
-  n_sig = 111.000 ... frac = 0.02000
-  n_sig = 114.000 ... frac = 0.06000
-  n_sig = 117.000 ... frac = 0.02000
-  n_sig = 120.000 ... frac = 0.06000
-  n_sig = 123.000 ... frac = 0.08000
-  n_sig = 126.000 ... frac = 0.04000
-  n_sig = 129.000 ... frac = 0.02000
-  n_sig = 132.000 ... frac = 0.10000
-  n_sig = 135.000 ... frac = 0.02000
-  n_sig = 138.000 ... frac = 0.08000
-  n_sig = 141.000 ... frac = 0.10000
-  n_sig = 144.000 ... frac = 0.16000
-  n_sig = 147.000 ... frac = 0.06000
-  n_sig = 150.000 ... frac = 0.18000
-  n_sig = 153.000 ... frac = 0.18000
-  n_sig = 156.000 ... frac = 0.18000
-  n_sig = 159.000 ... frac = 0.10000
-  n_sig = 162.000 ... frac = 0.20000
-  n_sig = 165.000 ... frac = 0.26000
-  n_sig = 168.000 ... frac = 0.36000
-  n_sig = 171.000 ... frac = 0.46000
-  n_sig = 174.000 ... frac = 0.38000
-  n_sig = 177.000 ... frac = 0.46000
-  n_sig = 180.000 ... frac = 0.38000
-  n_sig = 183.000 ... frac = 0.46000
-  n_sig = 186.000 ... frac = 0.50000
-* Generating batches of 500 trials...
-n_trials | n_inj    0.00   55.80  111.60  167.40  223.20  279.00  | n_sig (relative error)
-500      |          0.0%    0.0%    1.6%   28.6%   87.0%  100.0%  |    187.847 (+/-  0.6%) [spline]
-End time: 2019-02-14 10:46:48.733065
-Elapsed time: 0:06:12.695360
-Thu Feb 14 10:46:49 CST 2019

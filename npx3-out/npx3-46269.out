@@ -1,0 +1,1243 @@
+Mon Mar  4 09:01:36 CST 2019
+c9-13.icecube.wisc.edu
+Setting up Analysis for:
+IC40, IC59, IC79, IC86_2011, IC86_2012_2014
+Setting up IC40...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC40_MC.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC40_exp.npy ...
+<- /data/user/drysewyk/csky_cache/ana_new/IC40.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC40.subanalysis.npy    
+Setting up IC59...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC59_MC.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC59_exp.npy ...
+<- /data/user/drysewyk/csky_cache/ana_new/IC59.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC59.subanalysis.npy    
+Setting up IC79...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC79_MC.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC79_exp.npy ...
+<- /data/user/drysewyk/csky_cache/ana_new/IC79.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC79.subanalysis.npy    
+Setting up IC86_2011...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2011_MC.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2011_exp.npy ...
+<- /data/user/drysewyk/csky_cache/ana_new/IC86_2011.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC86_2011.subanalysis.npy    
+Setting up IC86_2012_2014...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2012_MC.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2012_exp.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2013_exp.npy ...
+Reading /data/user/mrichman/data/analyses/ps_tracks/current/IC86_2014_exp.npy ...
+<- /data/user/drysewyk/csky_cache/ana_new/IC86_2012_2014.subanalysis.npy ...<- /data/user/drysewyk/csky_cache/ana_new/IC86_2012_2014.subanalysis.npy    
+Done.
+Performing 1500 background trials using 5 cores:
+          4/1500 trials complete...          4/1500 trials complete...        132/1500 trials complete...        247/1500 trials complete...        372/1500 trials complete...        507/1500 trials complete...        646/1500 trials complete...        771/1500 trials complete...        897/1500 trials complete...       1034/1500 trials complete...       1165/1500 trials complete...       1292/1500 trials complete...       1412/1500 trials complete...       1493/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:02:23.893708
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 34.221...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.02000
+  n_sig = 12.000 ... frac = 0.08000
+  n_sig = 15.000 ... frac = 0.08000
+  n_sig = 18.000 ... frac = 0.24000
+  n_sig = 21.000 ... frac = 0.28000
+  n_sig = 24.000 ... frac = 0.42000
+  n_sig = 27.000 ... frac = 0.62000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   10.80   21.60   32.40   43.20   54.00  | n_sig (relative error)
+500      |          0.0%    5.8%   55.8%   89.8%   98.0%   99.6%  |     20.266 (+/-  1.9%) [spline]
+End time: 2019-03-04 09:03:19.168488
+Elapsed time: 0:00:55.274780
+Performing 1500 background trials using 5 cores:
+          4/1500 trials complete...          4/1500 trials complete...         79/1500 trials complete...        156/1500 trials complete...        246/1500 trials complete...        329/1500 trials complete...        406/1500 trials complete...        480/1500 trials complete...        564/1500 trials complete...        646/1500 trials complete...        722/1500 trials complete...        808/1500 trials complete...        893/1500 trials complete...        974/1500 trials complete...       1065/1500 trials complete...       1148/1500 trials complete...       1229/1500 trials complete...       1306/1500 trials complete...       1386/1500 trials complete...       1462/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:03:40.407160
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 40.479...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.04000
+  n_sig = 36.000 ... frac = 0.16000
+  n_sig = 39.000 ... frac = 0.14000
+  n_sig = 42.000 ... frac = 0.22000
+  n_sig = 45.000 ... frac = 0.30000
+  n_sig = 48.000 ... frac = 0.24000
+  n_sig = 51.000 ... frac = 0.40000
+  n_sig = 54.000 ... frac = 0.52000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   21.60   43.20   64.80   86.40  108.00  | n_sig (relative error)
+500      |          0.0%    0.6%   21.4%   78.6%   98.8%  100.0%  |     53.975 (+/-  0.9%) [spline]
+End time: 2019-03-04 09:05:08.002415
+Elapsed time: 0:01:27.595255
+Performing 1500 background trials using 5 cores:
+          2/1500 trials complete...          2/1500 trials complete...         52/1500 trials complete...        104/1500 trials complete...        154/1500 trials complete...        199/1500 trials complete...        247/1500 trials complete...        292/1500 trials complete...        339/1500 trials complete...        388/1500 trials complete...        441/1500 trials complete...        489/1500 trials complete...        533/1500 trials complete...        585/1500 trials complete...        640/1500 trials complete...        693/1500 trials complete...        746/1500 trials complete...        797/1500 trials complete...        845/1500 trials complete...        904/1500 trials complete...        951/1500 trials complete...       1006/1500 trials complete...       1060/1500 trials complete...       1110/1500 trials complete...       1166/1500 trials complete...       1218/1500 trials complete...       1271/1500 trials complete...       1327/1500 trials complete...       1382/1500 trials complete...       1434/1500 trials complete...       1480/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:05:40.116756
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 44.193...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.02000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.02000
+  n_sig = 60.000 ... frac = 0.06000
+  n_sig = 63.000 ... frac = 0.04000
+  n_sig = 66.000 ... frac = 0.12000
+  n_sig = 69.000 ... frac = 0.10000
+  n_sig = 72.000 ... frac = 0.16000
+  n_sig = 75.000 ... frac = 0.20000
+  n_sig = 78.000 ... frac = 0.20000
+  n_sig = 81.000 ... frac = 0.18000
+  n_sig = 84.000 ... frac = 0.18000
+  n_sig = 87.000 ... frac = 0.28000
+  n_sig = 90.000 ... frac = 0.36000
+  n_sig = 93.000 ... frac = 0.48000
+  n_sig = 96.000 ... frac = 0.46000
+  n_sig = 99.000 ... frac = 0.48000
+  n_sig = 102.000 ... frac = 0.50000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   40.80   81.60  122.40  163.20  204.00  | n_sig (relative error)
+500      |          0.0%    0.6%   25.2%   91.6%   99.6%  100.0%  |     96.799 (+/-  0.9%) [spline]
+End time: 2019-03-04 09:08:16.329810
+Elapsed time: 0:02:36.213054
+Performing 1500 background trials using 5 cores:
+          2/1500 trials complete...          2/1500 trials complete...         62/1500 trials complete...        128/1500 trials complete...        185/1500 trials complete...        248/1500 trials complete...        316/1500 trials complete...        385/1500 trials complete...        449/1500 trials complete...        504/1500 trials complete...        573/1500 trials complete...        637/1500 trials complete...        700/1500 trials complete...        764/1500 trials complete...        830/1500 trials complete...        899/1500 trials complete...        970/1500 trials complete...       1032/1500 trials complete...       1096/1500 trials complete...       1158/1500 trials complete...       1218/1500 trials complete...       1278/1500 trials complete...       1350/1500 trials complete...       1413/1500 trials complete...       1472/1500 trials complete...       1492/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:08:43.400296
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 43.221...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.02000
+  n_sig = 66.000 ... frac = 0.02000
+  n_sig = 69.000 ... frac = 0.02000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.04000
+  n_sig = 87.000 ... frac = 0.08000
+  n_sig = 90.000 ... frac = 0.12000
+  n_sig = 93.000 ... frac = 0.12000
+  n_sig = 96.000 ... frac = 0.14000
+  n_sig = 99.000 ... frac = 0.08000
+  n_sig = 102.000 ... frac = 0.22000
+  n_sig = 105.000 ... frac = 0.24000
+  n_sig = 108.000 ... frac = 0.24000
+  n_sig = 111.000 ... frac = 0.34000
+  n_sig = 114.000 ... frac = 0.20000
+  n_sig = 117.000 ... frac = 0.46000
+  n_sig = 120.000 ... frac = 0.48000
+  n_sig = 123.000 ... frac = 0.48000
+  n_sig = 126.000 ... frac = 0.36000
+  n_sig = 129.000 ... frac = 0.56000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   51.60  103.20  154.80  206.40  258.00  | n_sig (relative error)
+500      |          0.0%    0.0%   14.8%   81.0%   99.6%  100.0%  |    130.624 (+/-  0.7%) [spline]
+End time: 2019-03-04 09:11:15.789246
+Elapsed time: 0:02:32.388950
+Performing 1500 background trials using 5 cores:
+          2/1500 trials complete...          2/1500 trials complete...         47/1500 trials complete...         90/1500 trials complete...        137/1500 trials complete...        184/1500 trials complete...        230/1500 trials complete...        264/1500 trials complete...        310/1500 trials complete...        364/1500 trials complete...        416/1500 trials complete...        466/1500 trials complete...        510/1500 trials complete...        556/1500 trials complete...        594/1500 trials complete...        638/1500 trials complete...        690/1500 trials complete...        743/1500 trials complete...        788/1500 trials complete...        833/1500 trials complete...        875/1500 trials complete...        926/1500 trials complete...        974/1500 trials complete...       1015/1500 trials complete...       1055/1500 trials complete...       1093/1500 trials complete...       1133/1500 trials complete...       1177/1500 trials complete...       1222/1500 trials complete...       1261/1500 trials complete...       1298/1500 trials complete...       1330/1500 trials complete...       1372/1500 trials complete...       1415/1500 trials complete...       1451/1500 trials complete...       1487/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:11:53.173289
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 38.465...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.00000
+  n_sig = 72.000 ... frac = 0.02000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.02000
+  n_sig = 90.000 ... frac = 0.00000
+  n_sig = 93.000 ... frac = 0.00000
+  n_sig = 96.000 ... frac = 0.06000
+  n_sig = 99.000 ... frac = 0.04000
+  n_sig = 102.000 ... frac = 0.02000
+  n_sig = 105.000 ... frac = 0.04000
+  n_sig = 108.000 ... frac = 0.02000
+  n_sig = 111.000 ... frac = 0.04000
+  n_sig = 114.000 ... frac = 0.04000
+  n_sig = 117.000 ... frac = 0.00000
+  n_sig = 120.000 ... frac = 0.06000
+  n_sig = 123.000 ... frac = 0.10000
+  n_sig = 126.000 ... frac = 0.14000
+  n_sig = 129.000 ... frac = 0.12000
+  n_sig = 132.000 ... frac = 0.20000
+  n_sig = 135.000 ... frac = 0.20000
+  n_sig = 138.000 ... frac = 0.12000
+  n_sig = 141.000 ... frac = 0.38000
+  n_sig = 144.000 ... frac = 0.34000
+  n_sig = 147.000 ... frac = 0.32000
+  n_sig = 150.000 ... frac = 0.28000
+  n_sig = 153.000 ... frac = 0.40000
+  n_sig = 156.000 ... frac = 0.42000
+  n_sig = 159.000 ... frac = 0.50000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   63.60  127.20  190.80  254.40  318.00  | n_sig (relative error)
+500      |          0.0%    0.2%   10.6%   77.2%   99.2%  100.0%  |    164.829 (+/-  0.7%) [spline]
+End time: 2019-03-04 09:15:52.969938
+Elapsed time: 0:03:59.796649
+Performing 1500 background trials using 5 cores:
+          0/1500 trials complete...          0/1500 trials complete...         29/1500 trials complete...         61/1500 trials complete...         94/1500 trials complete...        130/1500 trials complete...        167/1500 trials complete...        194/1500 trials complete...        226/1500 trials complete...        262/1500 trials complete...        295/1500 trials complete...        333/1500 trials complete...        371/1500 trials complete...        407/1500 trials complete...        442/1500 trials complete...        478/1500 trials complete...        516/1500 trials complete...        558/1500 trials complete...        598/1500 trials complete...        633/1500 trials complete...        667/1500 trials complete...        700/1500 trials complete...        733/1500 trials complete...        770/1500 trials complete...        809/1500 trials complete...        849/1500 trials complete...        881/1500 trials complete...        921/1500 trials complete...        962/1500 trials complete...        996/1500 trials complete...       1028/1500 trials complete...       1060/1500 trials complete...       1090/1500 trials complete...       1125/1500 trials complete...       1155/1500 trials complete...       1190/1500 trials complete...       1222/1500 trials complete...       1263/1500 trials complete...       1299/1500 trials complete...       1334/1500 trials complete...       1373/1500 trials complete...       1402/1500 trials complete...       1429/1500 trials complete...       1462/1500 trials complete...       1484/1500 trials complete...       1499/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:16:40.447175
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 31.218...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.02000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.00000
+  n_sig = 90.000 ... frac = 0.04000
+  n_sig = 93.000 ... frac = 0.02000
+  n_sig = 96.000 ... frac = 0.00000
+  n_sig = 99.000 ... frac = 0.04000
+  n_sig = 102.000 ... frac = 0.02000
+  n_sig = 105.000 ... frac = 0.02000
+  n_sig = 108.000 ... frac = 0.04000
+  n_sig = 111.000 ... frac = 0.00000
+  n_sig = 114.000 ... frac = 0.14000
+  n_sig = 117.000 ... frac = 0.08000
+  n_sig = 120.000 ... frac = 0.08000
+  n_sig = 123.000 ... frac = 0.10000
+  n_sig = 126.000 ... frac = 0.08000
+  n_sig = 129.000 ... frac = 0.18000
+  n_sig = 132.000 ... frac = 0.08000
+  n_sig = 135.000 ... frac = 0.12000
+  n_sig = 138.000 ... frac = 0.10000
+  n_sig = 141.000 ... frac = 0.14000
+  n_sig = 144.000 ... frac = 0.12000
+  n_sig = 147.000 ... frac = 0.18000
+  n_sig = 150.000 ... frac = 0.24000
+  n_sig = 153.000 ... frac = 0.30000
+  n_sig = 156.000 ... frac = 0.34000
+  n_sig = 159.000 ... frac = 0.24000
+  n_sig = 162.000 ... frac = 0.26000
+  n_sig = 165.000 ... frac = 0.26000
+  n_sig = 168.000 ... frac = 0.48000
+  n_sig = 171.000 ... frac = 0.42000
+  n_sig = 174.000 ... frac = 0.50000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   69.60  139.20  208.80  278.40  348.00  | n_sig (relative error)
+500      |          0.0%    0.0%   14.8%   75.6%   99.6%  100.0%  |    179.562 (+/-  0.8%) [spline]
+End time: 2019-03-04 09:21:50.189592
+Elapsed time: 0:05:09.742417
+Performing 1500 background trials using 5 cores:
+          4/1500 trials complete...          4/1500 trials complete...        101/1500 trials complete...        226/1500 trials complete...        335/1500 trials complete...        457/1500 trials complete...        569/1500 trials complete...        686/1500 trials complete...        802/1500 trials complete...        908/1500 trials complete...       1026/1500 trials complete...       1150/1500 trials complete...       1268/1500 trials complete...       1378/1500 trials complete...       1465/1500 trials complete...       1499/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:22:07.278564
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 31.582...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.04000
+  n_sig = 12.000 ... frac = 0.14000
+  n_sig = 15.000 ... frac = 0.26000
+  n_sig = 18.000 ... frac = 0.34000
+  n_sig = 21.000 ... frac = 0.50000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00    8.40   16.80   25.20   33.60   42.00  | n_sig (relative error)
+500      |          0.0%    5.6%   37.4%   76.8%   91.6%   99.2%  |     19.371 (+/-  1.7%) [spline]
+End time: 2019-03-04 09:23:03.062878
+Elapsed time: 0:00:55.784314
+Performing 1500 background trials using 5 cores:
+          5/1500 trials complete...          5/1500 trials complete...        114/1500 trials complete...        229/1500 trials complete...        340/1500 trials complete...        455/1500 trials complete...        576/1500 trials complete...        693/1500 trials complete...        814/1500 trials complete...        933/1500 trials complete...       1053/1500 trials complete...       1177/1500 trials complete...       1293/1500 trials complete...       1415/1500 trials complete...       1492/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:23:19.132012
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 33.884...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.04000
+  n_sig = 39.000 ... frac = 0.02000
+  n_sig = 42.000 ... frac = 0.04000
+  n_sig = 45.000 ... frac = 0.04000
+  n_sig = 48.000 ... frac = 0.08000
+  n_sig = 51.000 ... frac = 0.06000
+  n_sig = 54.000 ... frac = 0.12000
+  n_sig = 57.000 ... frac = 0.16000
+  n_sig = 60.000 ... frac = 0.12000
+  n_sig = 63.000 ... frac = 0.08000
+  n_sig = 66.000 ... frac = 0.20000
+  n_sig = 69.000 ... frac = 0.20000
+  n_sig = 72.000 ... frac = 0.24000
+  n_sig = 75.000 ... frac = 0.40000
+  n_sig = 78.000 ... frac = 0.28000
+  n_sig = 81.000 ... frac = 0.38000
+  n_sig = 84.000 ... frac = 0.34000
+  n_sig = 87.000 ... frac = 0.54000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00   34.80   69.60  104.40  139.20  174.00  | n_sig (relative error)
+500      |          0.0%    1.0%   18.6%   63.8%   89.8%   99.2%  |     93.429 (+/-  1.3%) [spline]
+End time: 2019-03-04 09:24:55.224851
+Elapsed time: 0:01:36.092839
+Performing 1500 background trials using 5 cores:
+          7/1500 trials complete...          7/1500 trials complete...        112/1500 trials complete...        206/1500 trials complete...        309/1500 trials complete...        400/1500 trials complete...        513/1500 trials complete...        610/1500 trials complete...        711/1500 trials complete...        826/1500 trials complete...        932/1500 trials complete...       1034/1500 trials complete...       1147/1500 trials complete...       1245/1500 trials complete...       1344/1500 trials complete...       1442/1500 trials complete...       1492/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:25:13.549466
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 36.934...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.00000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.00000
+  n_sig = 90.000 ... frac = 0.00000
+  n_sig = 93.000 ... frac = 0.00000
+  n_sig = 96.000 ... frac = 0.00000
+  n_sig = 99.000 ... frac = 0.00000
+  n_sig = 102.000 ... frac = 0.02000
+  n_sig = 105.000 ... frac = 0.00000
+  n_sig = 108.000 ... frac = 0.00000
+  n_sig = 111.000 ... frac = 0.00000
+  n_sig = 114.000 ... frac = 0.04000
+  n_sig = 117.000 ... frac = 0.06000
+  n_sig = 120.000 ... frac = 0.02000
+  n_sig = 123.000 ... frac = 0.02000
+  n_sig = 126.000 ... frac = 0.02000
+  n_sig = 129.000 ... frac = 0.00000
+  n_sig = 132.000 ... frac = 0.02000
+  n_sig = 135.000 ... frac = 0.02000
+  n_sig = 138.000 ... frac = 0.00000
+  n_sig = 141.000 ... frac = 0.04000
+  n_sig = 144.000 ... frac = 0.02000
+  n_sig = 147.000 ... frac = 0.02000
+  n_sig = 150.000 ... frac = 0.08000
+  n_sig = 153.000 ... frac = 0.00000
+  n_sig = 156.000 ... frac = 0.12000
+  n_sig = 159.000 ... frac = 0.08000
+  n_sig = 162.000 ... frac = 0.12000
+  n_sig = 165.000 ... frac = 0.10000
+  n_sig = 168.000 ... frac = 0.06000
+  n_sig = 171.000 ... frac = 0.10000
+  n_sig = 174.000 ... frac = 0.16000
+  n_sig = 177.000 ... frac = 0.14000
+  n_sig = 180.000 ... frac = 0.04000
+  n_sig = 183.000 ... frac = 0.06000
+  n_sig = 186.000 ... frac = 0.14000
+  n_sig = 189.000 ... frac = 0.20000
+  n_sig = 192.000 ... frac = 0.12000
+  n_sig = 195.000 ... frac = 0.28000
+  n_sig = 198.000 ... frac = 0.18000
+  n_sig = 201.000 ... frac = 0.16000
+  n_sig = 204.000 ... frac = 0.12000
+  n_sig = 207.000 ... frac = 0.16000
+  n_sig = 210.000 ... frac = 0.24000
+  n_sig = 213.000 ... frac = 0.22000
+  n_sig = 216.000 ... frac = 0.28000
+  n_sig = 219.000 ... frac = 0.26000
+  n_sig = 222.000 ... frac = 0.28000
+  n_sig = 225.000 ... frac = 0.30000
+  n_sig = 228.000 ... frac = 0.28000
+  n_sig = 231.000 ... frac = 0.26000
+  n_sig = 234.000 ... frac = 0.40000
+  n_sig = 237.000 ... frac = 0.30000
+  n_sig = 240.000 ... frac = 0.30000
+  n_sig = 243.000 ... frac = 0.38000
+  n_sig = 246.000 ... frac = 0.32000
+  n_sig = 249.000 ... frac = 0.40000
+  n_sig = 252.000 ... frac = 0.38000
+  n_sig = 255.000 ... frac = 0.56000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00  102.00  204.00  306.00  408.00  510.00  | n_sig (relative error)
+500      |          0.0%    0.2%   22.4%   69.0%   96.2%   99.6%  |    264.174 (+/-  1.3%) [spline]
+End time: 2019-03-04 09:28:06.680515
+Elapsed time: 0:02:53.131049
+Performing 1500 background trials using 5 cores:
+          7/1500 trials complete...          7/1500 trials complete...        106/1500 trials complete...        210/1500 trials complete...        311/1500 trials complete...        423/1500 trials complete...        545/1500 trials complete...        667/1500 trials complete...        776/1500 trials complete...        880/1500 trials complete...        983/1500 trials complete...       1094/1500 trials complete...       1211/1500 trials complete...       1321/1500 trials complete...       1426/1500 trials complete...       1498/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:28:24.042411
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 38.046...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.00000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.00000
+  n_sig = 90.000 ... frac = 0.00000
+  n_sig = 93.000 ... frac = 0.00000
+  n_sig = 96.000 ... frac = 0.00000
+  n_sig = 99.000 ... frac = 0.00000
+  n_sig = 102.000 ... frac = 0.00000
+  n_sig = 105.000 ... frac = 0.00000
+  n_sig = 108.000 ... frac = 0.00000
+  n_sig = 111.000 ... frac = 0.00000
+  n_sig = 114.000 ... frac = 0.00000
+  n_sig = 117.000 ... frac = 0.00000
+  n_sig = 120.000 ... frac = 0.00000
+  n_sig = 123.000 ... frac = 0.00000
+  n_sig = 126.000 ... frac = 0.00000
+  n_sig = 129.000 ... frac = 0.00000
+  n_sig = 132.000 ... frac = 0.00000
+  n_sig = 135.000 ... frac = 0.00000
+  n_sig = 138.000 ... frac = 0.00000
+  n_sig = 141.000 ... frac = 0.00000
+  n_sig = 144.000 ... frac = 0.00000
+  n_sig = 147.000 ... frac = 0.00000
+  n_sig = 150.000 ... frac = 0.00000
+  n_sig = 153.000 ... frac = 0.00000
+  n_sig = 156.000 ... frac = 0.02000
+  n_sig = 159.000 ... frac = 0.00000
+  n_sig = 162.000 ... frac = 0.00000
+  n_sig = 165.000 ... frac = 0.00000
+  n_sig = 168.000 ... frac = 0.02000
+  n_sig = 171.000 ... frac = 0.00000
+  n_sig = 174.000 ... frac = 0.02000
+  n_sig = 177.000 ... frac = 0.00000
+  n_sig = 180.000 ... frac = 0.00000
+  n_sig = 183.000 ... frac = 0.00000
+  n_sig = 186.000 ... frac = 0.00000
+  n_sig = 189.000 ... frac = 0.00000
+  n_sig = 192.000 ... frac = 0.00000
+  n_sig = 195.000 ... frac = 0.00000
+  n_sig = 198.000 ... frac = 0.00000
+  n_sig = 201.000 ... frac = 0.00000
+  n_sig = 204.000 ... frac = 0.00000
+  n_sig = 207.000 ... frac = 0.02000
+  n_sig = 210.000 ... frac = 0.00000
+  n_sig = 213.000 ... frac = 0.02000
+  n_sig = 216.000 ... frac = 0.00000
+  n_sig = 219.000 ... frac = 0.00000
+  n_sig = 222.000 ... frac = 0.02000
+  n_sig = 225.000 ... frac = 0.02000
+  n_sig = 228.000 ... frac = 0.02000
+  n_sig = 231.000 ... frac = 0.02000
+  n_sig = 234.000 ... frac = 0.00000
+  n_sig = 237.000 ... frac = 0.02000
+  n_sig = 240.000 ... frac = 0.00000
+  n_sig = 243.000 ... frac = 0.08000
+  n_sig = 246.000 ... frac = 0.02000
+  n_sig = 249.000 ... frac = 0.00000
+  n_sig = 252.000 ... frac = 0.00000
+  n_sig = 255.000 ... frac = 0.04000
+  n_sig = 258.000 ... frac = 0.00000
+  n_sig = 261.000 ... frac = 0.04000
+  n_sig = 264.000 ... frac = 0.00000
+  n_sig = 267.000 ... frac = 0.08000
+  n_sig = 270.000 ... frac = 0.00000
+  n_sig = 273.000 ... frac = 0.00000
+  n_sig = 276.000 ... frac = 0.10000
+  n_sig = 279.000 ... frac = 0.00000
+  n_sig = 282.000 ... frac = 0.06000
+  n_sig = 285.000 ... frac = 0.04000
+  n_sig = 288.000 ... frac = 0.08000
+  n_sig = 291.000 ... frac = 0.04000
+  n_sig = 294.000 ... frac = 0.00000
+  n_sig = 297.000 ... frac = 0.04000
+  n_sig = 300.000 ... frac = 0.02000
+  n_sig = 303.000 ... frac = 0.06000
+  n_sig = 306.000 ... frac = 0.10000
+  n_sig = 309.000 ... frac = 0.06000
+  n_sig = 312.000 ... frac = 0.06000
+  n_sig = 315.000 ... frac = 0.10000
+  n_sig = 318.000 ... frac = 0.10000
+  n_sig = 321.000 ... frac = 0.10000
+  n_sig = 324.000 ... frac = 0.10000
+  n_sig = 327.000 ... frac = 0.08000
+  n_sig = 330.000 ... frac = 0.06000
+  n_sig = 333.000 ... frac = 0.04000
+  n_sig = 336.000 ... frac = 0.04000
+  n_sig = 339.000 ... frac = 0.12000
+  n_sig = 342.000 ... frac = 0.06000
+  n_sig = 345.000 ... frac = 0.12000
+  n_sig = 348.000 ... frac = 0.22000
+  n_sig = 351.000 ... frac = 0.10000
+  n_sig = 354.000 ... frac = 0.08000
+  n_sig = 357.000 ... frac = 0.14000
+  n_sig = 360.000 ... frac = 0.10000
+  n_sig = 363.000 ... frac = 0.14000
+  n_sig = 366.000 ... frac = 0.24000
+  n_sig = 369.000 ... frac = 0.12000
+  n_sig = 372.000 ... frac = 0.28000
+  n_sig = 375.000 ... frac = 0.14000
+  n_sig = 378.000 ... frac = 0.10000
+  n_sig = 381.000 ... frac = 0.26000
+  n_sig = 384.000 ... frac = 0.20000
+  n_sig = 387.000 ... frac = 0.28000
+  n_sig = 390.000 ... frac = 0.16000
+  n_sig = 393.000 ... frac = 0.20000
+  n_sig = 396.000 ... frac = 0.24000
+  n_sig = 399.000 ... frac = 0.18000
+  n_sig = 402.000 ... frac = 0.10000
+  n_sig = 405.000 ... frac = 0.18000
+  n_sig = 408.000 ... frac = 0.22000
+  n_sig = 411.000 ... frac = 0.24000
+  n_sig = 414.000 ... frac = 0.14000
+  n_sig = 417.000 ... frac = 0.26000
+  n_sig = 420.000 ... frac = 0.34000
+  n_sig = 423.000 ... frac = 0.40000
+  n_sig = 426.000 ... frac = 0.22000
+  n_sig = 429.000 ... frac = 0.32000
+  n_sig = 432.000 ... frac = 0.28000
+  n_sig = 435.000 ... frac = 0.14000
+  n_sig = 438.000 ... frac = 0.26000
+  n_sig = 441.000 ... frac = 0.38000
+  n_sig = 444.000 ... frac = 0.30000
+  n_sig = 447.000 ... frac = 0.36000
+  n_sig = 450.000 ... frac = 0.26000
+  n_sig = 453.000 ... frac = 0.34000
+  n_sig = 456.000 ... frac = 0.40000
+  n_sig = 459.000 ... frac = 0.24000
+  n_sig = 462.000 ... frac = 0.32000
+  n_sig = 465.000 ... frac = 0.42000
+  n_sig = 468.000 ... frac = 0.36000
+  n_sig = 471.000 ... frac = 0.42000
+  n_sig = 474.000 ... frac = 0.42000
+  n_sig = 477.000 ... frac = 0.34000
+  n_sig = 480.000 ... frac = 0.38000
+  n_sig = 483.000 ... frac = 0.58000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00  193.20  386.40  579.60  772.80  966.00  | n_sig (relative error)
+500      |          0.0%    0.4%   21.0%   70.6%   97.4%   99.8%  |    499.243 (+/-  1.1%) [spline]
+End time: 2019-03-04 09:33:10.838396
+Elapsed time: 0:04:46.795985
+Performing 1500 background trials using 5 cores:
+          5/1500 trials complete...          5/1500 trials complete...         89/1500 trials complete...        184/1500 trials complete...        270/1500 trials complete...        356/1500 trials complete...        437/1500 trials complete...        528/1500 trials complete...        613/1500 trials complete...        714/1500 trials complete...        819/1500 trials complete...        916/1500 trials complete...       1013/1500 trials complete...       1112/1500 trials complete...       1212/1500 trials complete...       1304/1500 trials complete...       1395/1500 trials complete...       1493/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:33:29.919415
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 36.001...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.00000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.00000
+  n_sig = 90.000 ... frac = 0.00000
+  n_sig = 93.000 ... frac = 0.00000
+  n_sig = 96.000 ... frac = 0.00000
+  n_sig = 99.000 ... frac = 0.00000
+  n_sig = 102.000 ... frac = 0.00000
+  n_sig = 105.000 ... frac = 0.00000
+  n_sig = 108.000 ... frac = 0.00000
+  n_sig = 111.000 ... frac = 0.00000
+  n_sig = 114.000 ... frac = 0.00000
+  n_sig = 117.000 ... frac = 0.00000
+  n_sig = 120.000 ... frac = 0.00000
+  n_sig = 123.000 ... frac = 0.00000
+  n_sig = 126.000 ... frac = 0.00000
+  n_sig = 129.000 ... frac = 0.00000
+  n_sig = 132.000 ... frac = 0.00000
+  n_sig = 135.000 ... frac = 0.00000
+  n_sig = 138.000 ... frac = 0.00000
+  n_sig = 141.000 ... frac = 0.00000
+  n_sig = 144.000 ... frac = 0.00000
+  n_sig = 147.000 ... frac = 0.00000
+  n_sig = 150.000 ... frac = 0.00000
+  n_sig = 153.000 ... frac = 0.00000
+  n_sig = 156.000 ... frac = 0.00000
+  n_sig = 159.000 ... frac = 0.00000
+  n_sig = 162.000 ... frac = 0.00000
+  n_sig = 165.000 ... frac = 0.00000
+  n_sig = 168.000 ... frac = 0.00000
+  n_sig = 171.000 ... frac = 0.00000
+  n_sig = 174.000 ... frac = 0.00000
+  n_sig = 177.000 ... frac = 0.00000
+  n_sig = 180.000 ... frac = 0.00000
+  n_sig = 183.000 ... frac = 0.00000
+  n_sig = 186.000 ... frac = 0.00000
+  n_sig = 189.000 ... frac = 0.00000
+  n_sig = 192.000 ... frac = 0.00000
+  n_sig = 195.000 ... frac = 0.00000
+  n_sig = 198.000 ... frac = 0.00000
+  n_sig = 201.000 ... frac = 0.00000
+  n_sig = 204.000 ... frac = 0.00000
+  n_sig = 207.000 ... frac = 0.00000
+  n_sig = 210.000 ... frac = 0.00000
+  n_sig = 213.000 ... frac = 0.00000
+  n_sig = 216.000 ... frac = 0.00000
+  n_sig = 219.000 ... frac = 0.00000
+  n_sig = 222.000 ... frac = 0.00000
+  n_sig = 225.000 ... frac = 0.00000
+  n_sig = 228.000 ... frac = 0.00000
+  n_sig = 231.000 ... frac = 0.00000
+  n_sig = 234.000 ... frac = 0.00000
+  n_sig = 237.000 ... frac = 0.00000
+  n_sig = 240.000 ... frac = 0.00000
+  n_sig = 243.000 ... frac = 0.00000
+  n_sig = 246.000 ... frac = 0.02000
+  n_sig = 249.000 ... frac = 0.00000
+  n_sig = 252.000 ... frac = 0.00000
+  n_sig = 255.000 ... frac = 0.00000
+  n_sig = 258.000 ... frac = 0.00000
+  n_sig = 261.000 ... frac = 0.00000
+  n_sig = 264.000 ... frac = 0.00000
+  n_sig = 267.000 ... frac = 0.00000
+  n_sig = 270.000 ... frac = 0.00000
+  n_sig = 273.000 ... frac = 0.00000
+  n_sig = 276.000 ... frac = 0.00000
+  n_sig = 279.000 ... frac = 0.00000
+  n_sig = 282.000 ... frac = 0.02000
+  n_sig = 285.000 ... frac = 0.00000
+  n_sig = 288.000 ... frac = 0.02000
+  n_sig = 291.000 ... frac = 0.00000
+  n_sig = 294.000 ... frac = 0.00000
+  n_sig = 297.000 ... frac = 0.00000
+  n_sig = 300.000 ... frac = 0.00000
+  n_sig = 303.000 ... frac = 0.00000
+  n_sig = 306.000 ... frac = 0.02000
+  n_sig = 309.000 ... frac = 0.00000
+  n_sig = 312.000 ... frac = 0.02000
+  n_sig = 315.000 ... frac = 0.04000
+  n_sig = 318.000 ... frac = 0.00000
+  n_sig = 321.000 ... frac = 0.00000
+  n_sig = 324.000 ... frac = 0.02000
+  n_sig = 327.000 ... frac = 0.00000
+  n_sig = 330.000 ... frac = 0.00000
+  n_sig = 333.000 ... frac = 0.00000
+  n_sig = 336.000 ... frac = 0.00000
+  n_sig = 339.000 ... frac = 0.00000
+  n_sig = 342.000 ... frac = 0.00000
+  n_sig = 345.000 ... frac = 0.00000
+  n_sig = 348.000 ... frac = 0.02000
+  n_sig = 351.000 ... frac = 0.02000
+  n_sig = 354.000 ... frac = 0.02000
+  n_sig = 357.000 ... frac = 0.00000
+  n_sig = 360.000 ... frac = 0.04000
+  n_sig = 363.000 ... frac = 0.00000
+  n_sig = 366.000 ... frac = 0.02000
+  n_sig = 369.000 ... frac = 0.02000
+  n_sig = 372.000 ... frac = 0.02000
+  n_sig = 375.000 ... frac = 0.00000
+  n_sig = 378.000 ... frac = 0.00000
+  n_sig = 381.000 ... frac = 0.00000
+  n_sig = 384.000 ... frac = 0.02000
+  n_sig = 387.000 ... frac = 0.06000
+  n_sig = 390.000 ... frac = 0.02000
+  n_sig = 393.000 ... frac = 0.04000
+  n_sig = 396.000 ... frac = 0.00000
+  n_sig = 399.000 ... frac = 0.00000
+  n_sig = 402.000 ... frac = 0.00000
+  n_sig = 405.000 ... frac = 0.02000
+  n_sig = 408.000 ... frac = 0.02000
+  n_sig = 411.000 ... frac = 0.02000
+  n_sig = 414.000 ... frac = 0.02000
+  n_sig = 417.000 ... frac = 0.02000
+  n_sig = 420.000 ... frac = 0.02000
+  n_sig = 423.000 ... frac = 0.00000
+  n_sig = 426.000 ... frac = 0.02000
+  n_sig = 429.000 ... frac = 0.04000
+  n_sig = 432.000 ... frac = 0.00000
+  n_sig = 435.000 ... frac = 0.08000
+  n_sig = 438.000 ... frac = 0.04000
+  n_sig = 441.000 ... frac = 0.00000
+  n_sig = 444.000 ... frac = 0.04000
+  n_sig = 447.000 ... frac = 0.02000
+  n_sig = 450.000 ... frac = 0.04000
+  n_sig = 453.000 ... frac = 0.10000
+  n_sig = 456.000 ... frac = 0.04000
+  n_sig = 459.000 ... frac = 0.02000
+  n_sig = 462.000 ... frac = 0.10000
+  n_sig = 465.000 ... frac = 0.04000
+  n_sig = 468.000 ... frac = 0.04000
+  n_sig = 471.000 ... frac = 0.04000
+  n_sig = 474.000 ... frac = 0.08000
+  n_sig = 477.000 ... frac = 0.02000
+  n_sig = 480.000 ... frac = 0.02000
+  n_sig = 483.000 ... frac = 0.06000
+  n_sig = 486.000 ... frac = 0.06000
+  n_sig = 489.000 ... frac = 0.12000
+  n_sig = 492.000 ... frac = 0.08000
+  n_sig = 495.000 ... frac = 0.04000
+  n_sig = 498.000 ... frac = 0.08000
+  n_sig = 501.000 ... frac = 0.06000
+  n_sig = 504.000 ... frac = 0.04000
+  n_sig = 507.000 ... frac = 0.06000
+  n_sig = 510.000 ... frac = 0.06000
+  n_sig = 513.000 ... frac = 0.02000
+  n_sig = 516.000 ... frac = 0.06000
+  n_sig = 519.000 ... frac = 0.10000
+  n_sig = 522.000 ... frac = 0.20000
+  n_sig = 525.000 ... frac = 0.08000
+  n_sig = 528.000 ... frac = 0.02000
+  n_sig = 531.000 ... frac = 0.06000
+  n_sig = 534.000 ... frac = 0.08000
+  n_sig = 537.000 ... frac = 0.16000
+  n_sig = 540.000 ... frac = 0.08000
+  n_sig = 543.000 ... frac = 0.06000
+  n_sig = 546.000 ... frac = 0.14000
+  n_sig = 549.000 ... frac = 0.06000
+  n_sig = 552.000 ... frac = 0.16000
+  n_sig = 555.000 ... frac = 0.16000
+  n_sig = 558.000 ... frac = 0.22000
+  n_sig = 561.000 ... frac = 0.18000
+  n_sig = 564.000 ... frac = 0.14000
+  n_sig = 567.000 ... frac = 0.10000
+  n_sig = 570.000 ... frac = 0.08000
+  n_sig = 573.000 ... frac = 0.14000
+  n_sig = 576.000 ... frac = 0.14000
+  n_sig = 579.000 ... frac = 0.08000
+  n_sig = 582.000 ... frac = 0.16000
+  n_sig = 585.000 ... frac = 0.22000
+  n_sig = 588.000 ... frac = 0.18000
+  n_sig = 591.000 ... frac = 0.22000
+  n_sig = 594.000 ... frac = 0.10000
+  n_sig = 597.000 ... frac = 0.22000
+  n_sig = 600.000 ... frac = 0.24000
+  n_sig = 603.000 ... frac = 0.20000
+  n_sig = 606.000 ... frac = 0.12000
+  n_sig = 609.000 ... frac = 0.22000
+  n_sig = 612.000 ... frac = 0.24000
+  n_sig = 615.000 ... frac = 0.26000
+  n_sig = 618.000 ... frac = 0.16000
+  n_sig = 621.000 ... frac = 0.22000
+  n_sig = 624.000 ... frac = 0.22000
+  n_sig = 627.000 ... frac = 0.22000
+  n_sig = 630.000 ... frac = 0.18000
+  n_sig = 633.000 ... frac = 0.28000
+  n_sig = 636.000 ... frac = 0.16000
+  n_sig = 639.000 ... frac = 0.22000
+  n_sig = 642.000 ... frac = 0.18000
+  n_sig = 645.000 ... frac = 0.18000
+  n_sig = 648.000 ... frac = 0.10000
+  n_sig = 651.000 ... frac = 0.18000
+  n_sig = 654.000 ... frac = 0.14000
+  n_sig = 657.000 ... frac = 0.16000
+  n_sig = 660.000 ... frac = 0.22000
+  n_sig = 663.000 ... frac = 0.30000
+  n_sig = 666.000 ... frac = 0.36000
+  n_sig = 669.000 ... frac = 0.20000
+  n_sig = 672.000 ... frac = 0.32000
+  n_sig = 675.000 ... frac = 0.30000
+  n_sig = 678.000 ... frac = 0.26000
+  n_sig = 681.000 ... frac = 0.26000
+  n_sig = 684.000 ... frac = 0.38000
+  n_sig = 687.000 ... frac = 0.32000
+  n_sig = 690.000 ... frac = 0.30000
+  n_sig = 693.000 ... frac = 0.34000
+  n_sig = 696.000 ... frac = 0.36000
+  n_sig = 699.000 ... frac = 0.34000
+  n_sig = 702.000 ... frac = 0.20000
+  n_sig = 705.000 ... frac = 0.32000
+  n_sig = 708.000 ... frac = 0.40000
+  n_sig = 711.000 ... frac = 0.28000
+  n_sig = 714.000 ... frac = 0.28000
+  n_sig = 717.000 ... frac = 0.34000
+  n_sig = 720.000 ... frac = 0.42000
+  n_sig = 723.000 ... frac = 0.38000
+  n_sig = 726.000 ... frac = 0.26000
+  n_sig = 729.000 ... frac = 0.42000
+  n_sig = 732.000 ... frac = 0.28000
+  n_sig = 735.000 ... frac = 0.42000
+  n_sig = 738.000 ... frac = 0.30000
+  n_sig = 741.000 ... frac = 0.48000
+  n_sig = 744.000 ... frac = 0.34000
+  n_sig = 747.000 ... frac = 0.38000
+  n_sig = 750.000 ... frac = 0.54000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00  300.00  600.00  900.00 1200.00 1500.00  | n_sig (relative error)
+500      |          0.0%    0.8%   14.4%   65.4%   95.4%   99.4%  |    809.080 (+/-  1.2%) [spline]
+End time: 2019-03-04 09:40:48.488616
+Elapsed time: 0:07:18.569201
+Performing 1500 background trials using 5 cores:
+          9/1500 trials complete...          9/1500 trials complete...         96/1500 trials complete...        192/1500 trials complete...        274/1500 trials complete...        372/1500 trials complete...        458/1500 trials complete...        563/1500 trials complete...        669/1500 trials complete...        762/1500 trials complete...        868/1500 trials complete...        973/1500 trials complete...       1078/1500 trials complete...       1177/1500 trials complete...       1269/1500 trials complete...       1363/1500 trials complete...       1452/1500 trials complete...       1500/1500 trials complete.   
+Start time: 2019-03-04 09:41:06.920452
+Using 5 cores.
+* Starting initial scan for 50% of 50 trials with TS >= 34.366...
+  n_sig = 3.000 ... frac = 0.00000
+  n_sig = 6.000 ... frac = 0.00000
+  n_sig = 9.000 ... frac = 0.00000
+  n_sig = 12.000 ... frac = 0.00000
+  n_sig = 15.000 ... frac = 0.00000
+  n_sig = 18.000 ... frac = 0.00000
+  n_sig = 21.000 ... frac = 0.00000
+  n_sig = 24.000 ... frac = 0.00000
+  n_sig = 27.000 ... frac = 0.00000
+  n_sig = 30.000 ... frac = 0.00000
+  n_sig = 33.000 ... frac = 0.00000
+  n_sig = 36.000 ... frac = 0.00000
+  n_sig = 39.000 ... frac = 0.00000
+  n_sig = 42.000 ... frac = 0.00000
+  n_sig = 45.000 ... frac = 0.00000
+  n_sig = 48.000 ... frac = 0.00000
+  n_sig = 51.000 ... frac = 0.00000
+  n_sig = 54.000 ... frac = 0.00000
+  n_sig = 57.000 ... frac = 0.00000
+  n_sig = 60.000 ... frac = 0.00000
+  n_sig = 63.000 ... frac = 0.00000
+  n_sig = 66.000 ... frac = 0.00000
+  n_sig = 69.000 ... frac = 0.00000
+  n_sig = 72.000 ... frac = 0.00000
+  n_sig = 75.000 ... frac = 0.00000
+  n_sig = 78.000 ... frac = 0.00000
+  n_sig = 81.000 ... frac = 0.00000
+  n_sig = 84.000 ... frac = 0.00000
+  n_sig = 87.000 ... frac = 0.00000
+  n_sig = 90.000 ... frac = 0.00000
+  n_sig = 93.000 ... frac = 0.00000
+  n_sig = 96.000 ... frac = 0.00000
+  n_sig = 99.000 ... frac = 0.00000
+  n_sig = 102.000 ... frac = 0.00000
+  n_sig = 105.000 ... frac = 0.00000
+  n_sig = 108.000 ... frac = 0.00000
+  n_sig = 111.000 ... frac = 0.00000
+  n_sig = 114.000 ... frac = 0.00000
+  n_sig = 117.000 ... frac = 0.00000
+  n_sig = 120.000 ... frac = 0.00000
+  n_sig = 123.000 ... frac = 0.00000
+  n_sig = 126.000 ... frac = 0.00000
+  n_sig = 129.000 ... frac = 0.00000
+  n_sig = 132.000 ... frac = 0.00000
+  n_sig = 135.000 ... frac = 0.00000
+  n_sig = 138.000 ... frac = 0.00000
+  n_sig = 141.000 ... frac = 0.00000
+  n_sig = 144.000 ... frac = 0.00000
+  n_sig = 147.000 ... frac = 0.00000
+  n_sig = 150.000 ... frac = 0.00000
+  n_sig = 153.000 ... frac = 0.00000
+  n_sig = 156.000 ... frac = 0.00000
+  n_sig = 159.000 ... frac = 0.00000
+  n_sig = 162.000 ... frac = 0.00000
+  n_sig = 165.000 ... frac = 0.00000
+  n_sig = 168.000 ... frac = 0.00000
+  n_sig = 171.000 ... frac = 0.00000
+  n_sig = 174.000 ... frac = 0.00000
+  n_sig = 177.000 ... frac = 0.00000
+  n_sig = 180.000 ... frac = 0.00000
+  n_sig = 183.000 ... frac = 0.00000
+  n_sig = 186.000 ... frac = 0.00000
+  n_sig = 189.000 ... frac = 0.00000
+  n_sig = 192.000 ... frac = 0.00000
+  n_sig = 195.000 ... frac = 0.00000
+  n_sig = 198.000 ... frac = 0.00000
+  n_sig = 201.000 ... frac = 0.00000
+  n_sig = 204.000 ... frac = 0.00000
+  n_sig = 207.000 ... frac = 0.00000
+  n_sig = 210.000 ... frac = 0.00000
+  n_sig = 213.000 ... frac = 0.00000
+  n_sig = 216.000 ... frac = 0.00000
+  n_sig = 219.000 ... frac = 0.00000
+  n_sig = 222.000 ... frac = 0.00000
+  n_sig = 225.000 ... frac = 0.00000
+  n_sig = 228.000 ... frac = 0.00000
+  n_sig = 231.000 ... frac = 0.00000
+  n_sig = 234.000 ... frac = 0.00000
+  n_sig = 237.000 ... frac = 0.02000
+  n_sig = 240.000 ... frac = 0.00000
+  n_sig = 243.000 ... frac = 0.00000
+  n_sig = 246.000 ... frac = 0.00000
+  n_sig = 249.000 ... frac = 0.00000
+  n_sig = 252.000 ... frac = 0.00000
+  n_sig = 255.000 ... frac = 0.00000
+  n_sig = 258.000 ... frac = 0.00000
+  n_sig = 261.000 ... frac = 0.00000
+  n_sig = 264.000 ... frac = 0.00000
+  n_sig = 267.000 ... frac = 0.00000
+  n_sig = 270.000 ... frac = 0.00000
+  n_sig = 273.000 ... frac = 0.00000
+  n_sig = 276.000 ... frac = 0.00000
+  n_sig = 279.000 ... frac = 0.00000
+  n_sig = 282.000 ... frac = 0.00000
+  n_sig = 285.000 ... frac = 0.00000
+  n_sig = 288.000 ... frac = 0.00000
+  n_sig = 291.000 ... frac = 0.00000
+  n_sig = 294.000 ... frac = 0.00000
+  n_sig = 297.000 ... frac = 0.00000
+  n_sig = 300.000 ... frac = 0.00000
+  n_sig = 303.000 ... frac = 0.00000
+  n_sig = 306.000 ... frac = 0.00000
+  n_sig = 309.000 ... frac = 0.00000
+  n_sig = 312.000 ... frac = 0.00000
+  n_sig = 315.000 ... frac = 0.00000
+  n_sig = 318.000 ... frac = 0.00000
+  n_sig = 321.000 ... frac = 0.00000
+  n_sig = 324.000 ... frac = 0.00000
+  n_sig = 327.000 ... frac = 0.00000
+  n_sig = 330.000 ... frac = 0.00000
+  n_sig = 333.000 ... frac = 0.00000
+  n_sig = 336.000 ... frac = 0.00000
+  n_sig = 339.000 ... frac = 0.00000
+  n_sig = 342.000 ... frac = 0.00000
+  n_sig = 345.000 ... frac = 0.00000
+  n_sig = 348.000 ... frac = 0.00000
+  n_sig = 351.000 ... frac = 0.00000
+  n_sig = 354.000 ... frac = 0.00000
+  n_sig = 357.000 ... frac = 0.00000
+  n_sig = 360.000 ... frac = 0.00000
+  n_sig = 363.000 ... frac = 0.00000
+  n_sig = 366.000 ... frac = 0.00000
+  n_sig = 369.000 ... frac = 0.00000
+  n_sig = 372.000 ... frac = 0.00000
+  n_sig = 375.000 ... frac = 0.00000
+  n_sig = 378.000 ... frac = 0.00000
+  n_sig = 381.000 ... frac = 0.00000
+  n_sig = 384.000 ... frac = 0.00000
+  n_sig = 387.000 ... frac = 0.00000
+  n_sig = 390.000 ... frac = 0.00000
+  n_sig = 393.000 ... frac = 0.00000
+  n_sig = 396.000 ... frac = 0.00000
+  n_sig = 399.000 ... frac = 0.00000
+  n_sig = 402.000 ... frac = 0.00000
+  n_sig = 405.000 ... frac = 0.00000
+  n_sig = 408.000 ... frac = 0.00000
+  n_sig = 411.000 ... frac = 0.00000
+  n_sig = 414.000 ... frac = 0.02000
+  n_sig = 417.000 ... frac = 0.00000
+  n_sig = 420.000 ... frac = 0.00000
+  n_sig = 423.000 ... frac = 0.00000
+  n_sig = 426.000 ... frac = 0.04000
+  n_sig = 429.000 ... frac = 0.00000
+  n_sig = 432.000 ... frac = 0.00000
+  n_sig = 435.000 ... frac = 0.00000
+  n_sig = 438.000 ... frac = 0.02000
+  n_sig = 441.000 ... frac = 0.00000
+  n_sig = 444.000 ... frac = 0.04000
+  n_sig = 447.000 ... frac = 0.02000
+  n_sig = 450.000 ... frac = 0.00000
+  n_sig = 453.000 ... frac = 0.00000
+  n_sig = 456.000 ... frac = 0.00000
+  n_sig = 459.000 ... frac = 0.00000
+  n_sig = 462.000 ... frac = 0.00000
+  n_sig = 465.000 ... frac = 0.00000
+  n_sig = 468.000 ... frac = 0.00000
+  n_sig = 471.000 ... frac = 0.00000
+  n_sig = 474.000 ... frac = 0.00000
+  n_sig = 477.000 ... frac = 0.00000
+  n_sig = 480.000 ... frac = 0.00000
+  n_sig = 483.000 ... frac = 0.02000
+  n_sig = 486.000 ... frac = 0.00000
+  n_sig = 489.000 ... frac = 0.06000
+  n_sig = 492.000 ... frac = 0.00000
+  n_sig = 495.000 ... frac = 0.00000
+  n_sig = 498.000 ... frac = 0.04000
+  n_sig = 501.000 ... frac = 0.00000
+  n_sig = 504.000 ... frac = 0.02000
+  n_sig = 507.000 ... frac = 0.02000
+  n_sig = 510.000 ... frac = 0.02000
+  n_sig = 513.000 ... frac = 0.04000
+  n_sig = 516.000 ... frac = 0.02000
+  n_sig = 519.000 ... frac = 0.06000
+  n_sig = 522.000 ... frac = 0.00000
+  n_sig = 525.000 ... frac = 0.00000
+  n_sig = 528.000 ... frac = 0.02000
+  n_sig = 531.000 ... frac = 0.02000
+  n_sig = 534.000 ... frac = 0.02000
+  n_sig = 537.000 ... frac = 0.00000
+  n_sig = 540.000 ... frac = 0.02000
+  n_sig = 543.000 ... frac = 0.04000
+  n_sig = 546.000 ... frac = 0.02000
+  n_sig = 549.000 ... frac = 0.02000
+  n_sig = 552.000 ... frac = 0.00000
+  n_sig = 555.000 ... frac = 0.02000
+  n_sig = 558.000 ... frac = 0.02000
+  n_sig = 561.000 ... frac = 0.04000
+  n_sig = 564.000 ... frac = 0.02000
+  n_sig = 567.000 ... frac = 0.02000
+  n_sig = 570.000 ... frac = 0.00000
+  n_sig = 573.000 ... frac = 0.04000
+  n_sig = 576.000 ... frac = 0.06000
+  n_sig = 579.000 ... frac = 0.04000
+  n_sig = 582.000 ... frac = 0.04000
+  n_sig = 585.000 ... frac = 0.02000
+  n_sig = 588.000 ... frac = 0.02000
+  n_sig = 591.000 ... frac = 0.10000
+  n_sig = 594.000 ... frac = 0.00000
+  n_sig = 597.000 ... frac = 0.02000
+  n_sig = 600.000 ... frac = 0.04000
+  n_sig = 603.000 ... frac = 0.00000
+  n_sig = 606.000 ... frac = 0.00000
+  n_sig = 609.000 ... frac = 0.04000
+  n_sig = 612.000 ... frac = 0.08000
+  n_sig = 615.000 ... frac = 0.06000
+  n_sig = 618.000 ... frac = 0.06000
+  n_sig = 621.000 ... frac = 0.08000
+  n_sig = 624.000 ... frac = 0.00000
+  n_sig = 627.000 ... frac = 0.00000
+  n_sig = 630.000 ... frac = 0.02000
+  n_sig = 633.000 ... frac = 0.02000
+  n_sig = 636.000 ... frac = 0.06000
+  n_sig = 639.000 ... frac = 0.04000
+  n_sig = 642.000 ... frac = 0.06000
+  n_sig = 645.000 ... frac = 0.04000
+  n_sig = 648.000 ... frac = 0.02000
+  n_sig = 651.000 ... frac = 0.04000
+  n_sig = 654.000 ... frac = 0.00000
+  n_sig = 657.000 ... frac = 0.10000
+  n_sig = 660.000 ... frac = 0.06000
+  n_sig = 663.000 ... frac = 0.10000
+  n_sig = 666.000 ... frac = 0.08000
+  n_sig = 669.000 ... frac = 0.10000
+  n_sig = 672.000 ... frac = 0.02000
+  n_sig = 675.000 ... frac = 0.02000
+  n_sig = 678.000 ... frac = 0.06000
+  n_sig = 681.000 ... frac = 0.04000
+  n_sig = 684.000 ... frac = 0.06000
+  n_sig = 687.000 ... frac = 0.16000
+  n_sig = 690.000 ... frac = 0.06000
+  n_sig = 693.000 ... frac = 0.12000
+  n_sig = 696.000 ... frac = 0.06000
+  n_sig = 699.000 ... frac = 0.08000
+  n_sig = 702.000 ... frac = 0.04000
+  n_sig = 705.000 ... frac = 0.10000
+  n_sig = 708.000 ... frac = 0.02000
+  n_sig = 711.000 ... frac = 0.12000
+  n_sig = 714.000 ... frac = 0.02000
+  n_sig = 717.000 ... frac = 0.08000
+  n_sig = 720.000 ... frac = 0.18000
+  n_sig = 723.000 ... frac = 0.06000
+  n_sig = 726.000 ... frac = 0.06000
+  n_sig = 729.000 ... frac = 0.12000
+  n_sig = 732.000 ... frac = 0.10000
+  n_sig = 735.000 ... frac = 0.10000
+  n_sig = 738.000 ... frac = 0.10000
+  n_sig = 741.000 ... frac = 0.10000
+  n_sig = 744.000 ... frac = 0.16000
+  n_sig = 747.000 ... frac = 0.06000
+  n_sig = 750.000 ... frac = 0.16000
+  n_sig = 753.000 ... frac = 0.12000
+  n_sig = 756.000 ... frac = 0.06000
+  n_sig = 759.000 ... frac = 0.06000
+  n_sig = 762.000 ... frac = 0.04000
+  n_sig = 765.000 ... frac = 0.08000
+  n_sig = 768.000 ... frac = 0.04000
+  n_sig = 771.000 ... frac = 0.00000
+  n_sig = 774.000 ... frac = 0.16000
+  n_sig = 777.000 ... frac = 0.12000
+  n_sig = 780.000 ... frac = 0.14000
+  n_sig = 783.000 ... frac = 0.06000
+  n_sig = 786.000 ... frac = 0.06000
+  n_sig = 789.000 ... frac = 0.10000
+  n_sig = 792.000 ... frac = 0.10000
+  n_sig = 795.000 ... frac = 0.06000
+  n_sig = 798.000 ... frac = 0.12000
+  n_sig = 801.000 ... frac = 0.10000
+  n_sig = 804.000 ... frac = 0.14000
+  n_sig = 807.000 ... frac = 0.10000
+  n_sig = 810.000 ... frac = 0.10000
+  n_sig = 813.000 ... frac = 0.14000
+  n_sig = 816.000 ... frac = 0.20000
+  n_sig = 819.000 ... frac = 0.14000
+  n_sig = 822.000 ... frac = 0.16000
+  n_sig = 825.000 ... frac = 0.20000
+  n_sig = 828.000 ... frac = 0.20000
+  n_sig = 831.000 ... frac = 0.20000
+  n_sig = 834.000 ... frac = 0.14000
+  n_sig = 837.000 ... frac = 0.10000
+  n_sig = 840.000 ... frac = 0.16000
+  n_sig = 843.000 ... frac = 0.12000
+  n_sig = 846.000 ... frac = 0.18000
+  n_sig = 849.000 ... frac = 0.18000
+  n_sig = 852.000 ... frac = 0.14000
+  n_sig = 855.000 ... frac = 0.20000
+  n_sig = 858.000 ... frac = 0.20000
+  n_sig = 861.000 ... frac = 0.20000
+  n_sig = 864.000 ... frac = 0.14000
+  n_sig = 867.000 ... frac = 0.24000
+  n_sig = 870.000 ... frac = 0.24000
+  n_sig = 873.000 ... frac = 0.12000
+  n_sig = 876.000 ... frac = 0.14000
+  n_sig = 879.000 ... frac = 0.14000
+  n_sig = 882.000 ... frac = 0.20000
+  n_sig = 885.000 ... frac = 0.22000
+  n_sig = 888.000 ... frac = 0.18000
+  n_sig = 891.000 ... frac = 0.24000
+  n_sig = 894.000 ... frac = 0.20000
+  n_sig = 897.000 ... frac = 0.12000
+  n_sig = 900.000 ... frac = 0.20000
+  n_sig = 903.000 ... frac = 0.26000
+  n_sig = 906.000 ... frac = 0.16000
+  n_sig = 909.000 ... frac = 0.26000
+  n_sig = 912.000 ... frac = 0.14000
+  n_sig = 915.000 ... frac = 0.28000
+  n_sig = 918.000 ... frac = 0.18000
+  n_sig = 921.000 ... frac = 0.34000
+  n_sig = 924.000 ... frac = 0.36000
+  n_sig = 927.000 ... frac = 0.10000
+  n_sig = 930.000 ... frac = 0.30000
+  n_sig = 933.000 ... frac = 0.32000
+  n_sig = 936.000 ... frac = 0.20000
+  n_sig = 939.000 ... frac = 0.28000
+  n_sig = 942.000 ... frac = 0.28000
+  n_sig = 945.000 ... frac = 0.22000
+  n_sig = 948.000 ... frac = 0.18000
+  n_sig = 951.000 ... frac = 0.20000
+  n_sig = 954.000 ... frac = 0.24000
+  n_sig = 957.000 ... frac = 0.28000
+  n_sig = 960.000 ... frac = 0.24000
+  n_sig = 963.000 ... frac = 0.24000
+  n_sig = 966.000 ... frac = 0.34000
+  n_sig = 969.000 ... frac = 0.30000
+  n_sig = 972.000 ... frac = 0.26000
+  n_sig = 975.000 ... frac = 0.24000
+  n_sig = 978.000 ... frac = 0.34000
+  n_sig = 981.000 ... frac = 0.24000
+  n_sig = 984.000 ... frac = 0.24000
+  n_sig = 987.000 ... frac = 0.30000
+  n_sig = 990.000 ... frac = 0.30000
+  n_sig = 993.000 ... frac = 0.40000
+  n_sig = 996.000 ... frac = 0.22000
+  n_sig = 999.000 ... frac = 0.26000
+  n_sig = 1002.000 ... frac = 0.36000
+  n_sig = 1005.000 ... frac = 0.34000
+  n_sig = 1008.000 ... frac = 0.32000
+  n_sig = 1011.000 ... frac = 0.34000
+  n_sig = 1014.000 ... frac = 0.44000
+  n_sig = 1017.000 ... frac = 0.34000
+  n_sig = 1020.000 ... frac = 0.32000
+  n_sig = 1023.000 ... frac = 0.26000
+  n_sig = 1026.000 ... frac = 0.28000
+  n_sig = 1029.000 ... frac = 0.46000
+  n_sig = 1032.000 ... frac = 0.42000
+  n_sig = 1035.000 ... frac = 0.42000
+  n_sig = 1038.000 ... frac = 0.36000
+  n_sig = 1041.000 ... frac = 0.30000
+  n_sig = 1044.000 ... frac = 0.50000
+* Generating batches of 500 trials...
+n_trials | n_inj    0.00  417.60  835.20 1252.80 1670.40 2088.00  | n_sig (relative error)
+500      |          0.0%    0.0%   17.0%   59.6%   91.4%   99.2%  |   1157.648 (+/-  1.6%) [spline]
+End time: 2019-03-04 09:50:42.117092
+Elapsed time: 0:09:35.196640
+Mon Mar  4 09:50:42 CST 2019
